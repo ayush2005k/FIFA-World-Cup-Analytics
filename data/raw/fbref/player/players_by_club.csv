@@ -1,0 +1,451 @@
+﻿Rk,Club,Country,Players,Min,Countries,List of Countries
+1,Manchester City,eng ENG,19,5558,12,ENG-4 · POR-3 · CRO-2 · NED-2 · ALG · BEL · EGY · FRA · GHA · NOR · ESP · UZB
+2,Bayern Munich,de GER,18,5791,10,GER-7 · FRA-2 · SEN-2 · AUT · CAN · COL · CRO · ENG · JPN · KOR
+3,Arsenal,eng ENG,16,4733,10,ENG-4 · ESP-3 · BRA-2 · BEL · ECU · FRA · GER · NED · NOR · SWE
+4,Paris Saint-Germain,fr FRA,16,4811,9,FRA-5 · POR-4 · BRA · ECU · KOR · MAR · SEN · ESP · TUN
+5,Barcelona,es ESP,15,4727,7,ESP-8 · ENG-2 · BRA · FRA · NED · POR · URU
+6,Manchester United,eng ENG,12,2646,10,BRA-2 · POR-2 · ARG · BEL · CIV · ENG · MAR · SCO · TUR · URU
+7,Crystal Palace,eng ENG,12,2748,10,COL-2 · FRA-2 · CIV · ENG · JPN · MAR · NOR · SEN · ESP · USA
+8,Al-Hilal,sa KSA,12,2490,6,KSA-7 · FRA · MAR · POR · SEN · URU
+9,Atlético Madrid,es ESP,12,2894,5,ARG-6 · ESP-3 · MEX · NOR · URU
+10,Galatasaray,tr TUR,12,2345,7,TUR-6 · COL · CIV · GER · NED · SEN · URU
+11,Liverpool,eng ENG,11,3731,9,NED-3 · ARG · BRA · EGY · FRA · GER · JPN · SCO · SWE
+12,Dortmund,de GER,11,2306,7,GER-4 · AUT-2 · ALG · NOR · SWE · SUI · TUR
+13,Slavia Prague,cz CZE,10,689,1,CZE-10
+14,Real Madrid,es ESP,10,4159,9,FRA-2 · AUT · BEL · BRA · ENG · GER · MAR · TUR · URU
+15,Flamengo,br BRA,10,1408,4,BRA-4 · URU-4 · COL · ECU
+16,Sunderland,eng ENG,10,2128,8,NED-3 · COD · ECU · HAI · MAR · PAR · SEN · SUI
+17,Milan,it ITA,10,2333,8,BEL-2 · FRA-2 · CRO · ECU · MEX · POR · SUI · USA
+18,PSV Eindhoven,nl NED,10,2490,8,MAR-2 · USA-2 · AUT · BIH · CRO · CUW · CZE · NED
+19,Al-Nassr,sa KSA,9,1345,3,KSA-6 · POR-2 · SEN
+20,Al Ahly,eg EGY,9,2443,2,EGY-8 · MAR
+21,Aston Villa,eng ENG,9,3506,6,ENG-3 · BEL-2 · ARG · FRA · SCO · SWE
+22,Fenerbahçe,tr TUR,9,592,4,TUR-6 · BRA · FRA · POR
+23,Al-Ahli,sa KSA,9,1302,7,KSA-3 · ALG · BRA · CIV · ENG · SEN · TUR
+24,Chelsea,eng ENG,9,2595,8,ENG-2 · ARG · ECU · FRA · NED · POR · SEN · ESP
+25,Hoffenheim,de GER,8,954,6,CZE-3 · AUT · CIV · CRO · GER · TUR
+26,Nice,fr FRA,8,763,7,SEN-2 · ALG · CAN · CIV · EGY · GHA · TUN
+27,Villarreal,es ESP,8,2197,7,CAN-2 · CPV · CIV · GHA · POR · SEN · USA
+28,Tottenham Hotspur,eng ENG,8,2599,8,ARG · AUT · ENG · NED · SEN · ESP · SWE · URU
+29,Marseille,fr FRA,8,1005,6,ARG-3 · ALG · CAN · MAR · NED · USA
+30,Stuttgart,de GER,8,1120,5,GER-4 · BIH · ECU · MAR · SUI
+31,Mamelodi Sundowns,za RSA,8,1636,1,RSA-8
+32,Benfica,pt POR,8,1752,7,NOR-2 · ARG · BEL · BIH · CPV · COL · POR
+33,Celtic,sct SCO,8,1144,7,SCO-2 · CAN · JPN · KOR · SWE · TUN · USA
+34,Orlando Pirates,za RSA,8,1030,1,RSA-8
+35,Lille,fr FRA,8,2150,4,BEL-3 · ALG-2 · COD-2 · MAR
+36,Brighton & Hove Albion,eng ENG,8,2042,6,NED-3 · BEL · GER · PAR · SWE · TUR
+37,Eintracht Frankfurt,de GER,8,1454,8,ALG · BEL · GER · JPN · MAR · SUI · TUN · TUR
+38,Viktoria Plzeň,cz CZE,7,892,5,CZE-3 · AUT · BIH · GHA · IRQ
+39,Sporting CP,pt POR,7,699,5,POR-3 · BEL · COL · CIV · URU
+40,Al-Hussein SC,jo JOR,7,691,1,JOR-7
+41,Atalanta,it ITA,7,1331,7,BEL · BIH · BRA · CIV · CRO · NED · SWE
+42,Palmeiras,br BRA,7,1062,4,PAR-3 · URU-2 · ARG · COL
+43,RB Leipzig,de GER,7,1308,4,AUT-3 · GER-2 · CIV · NOR
+44,Newcastle United,eng ENG,7,1103,5,ENG-2 · GER-2 · BRA · COD · SWE
+45,Strasbourg,fr FRA,7,902,5,BEL-2 · MAR-2 · ARG · CIV · PAR
+46,Leverkusen,de GER,7,1174,7,ALG · ARG · CZE · ENG · NED · ESP · USA
+47,Al Duhail SC,qa QAT,7,491,2,QAT-6 · ALG
+48,Internazionale,it ITA,7,2004,7,ARG · CIV · CRO · FRA · NED · SUI · TUR
+49,Juventus,it ITA,7,1329,7,BRA · CAN · NED · POR · SWE · TUR · USA
+50,Real Betis,es ESP,7,1059,6,MAR-2 · ARG · COL · COD · MEX · SUI
+51,Fulham,eng ENG,7,2696,6,NOR-2 · BEL · CAN · MEX · MAR · USA
+52,Mönchengladbach,de GER,6,905,5,USA-2 · BIH · JPN · KOR · SUI
+53,Young Boys,ch SUI,6,445,5,SUI-2 · ALG · BIH · HAI · TUN
+54,Bournemouth,eng ENG,6,1046,5,SCO-2 · ARG · BRA · NED · USA
+55,Auckland FC,nz NZL,6,92,1,NZL-6
+56,Wolverhampton Wanderers,eng ENG,6,1068,6,CZE · HAI · KOR · NOR · POR · URU
+57,Persepolis,ir IRN,6,469,2,IRN-4 · UZB-2
+58,Mainz 05,de GER,6,1082,5,AUT-2 · GER · JPN · KOR · SUI
+59,Al-Qadsiah,sa KSA,6,698,3,KSA-4 · GHA · MEX
+60,Roma,it ITA,6,1295,6,BRA · CIV · FRA · MAR · NED · TUR
+61,Monaco,fr FRA,6,1331,5,SEN-2 · CIV · FRA · SUI · USA
+62,Esteghlal,ir IRN,6,370,3,IRN-3 · UZB-2 · HAI
+63,Tractor,ir IRN,5,659,2,IRN-4 · UZB
+64,América,mx MEX,5,528,3,URU-3 · MEX · USA
+65,Norwich City,eng ENG,5,1027,5,AUS · CAN · PAN · SCO · TUN
+66,Bologna,it ITA,5,1783,5,COL · CRO · NOR · SCO · SUI
+67,Wolfsburg,de GER,5,296,5,ALG · AUT · GHA · JPN · SWE
+68,Auxerre,fr FRA,5,971,3,GHA-3 · CIV · HAI
+69,West Ham United,eng ENG,5,1155,5,COD · CZE · MEX · NED · SEN
+70,Burnley,eng ENG,5,758,5,COD · RSA · SWE · SUI · TUN
+71,İstanbul Başakşehir,tr TUR,5,1008,4,UZB-2 · CPV · CIV · GHA
+72,Guadalajara,mx MEX,5,1342,1,MEX-5
+73,Napoli,it ITA,5,1155,3,BEL-2 · SCO-2 · URU
+74,Lyon,fr FRA,5,1258,5,ARG · BRA · CZE · GHA · SEN
+75,Al Sadd,qa QAT,5,835,1,QAT-5
+76,Pyramids FC,eg EGY,5,732,3,EGY-3 · COD · JOR
+77,Real Sociedad,es ESP,5,694,4,CRO-2 · JPN · POR · ESP
+78,Nottingham Forest,eng ENG,5,1846,5,CIV · ENG · NZL · SCO · SUI
+79,Club Brugge,be BEL,5,1146,3,BEL-3 · ECU · SWE
+80,Feyenoord,nl NED,5,1080,4,JPN-2 · ALG · AUS · KOR
+81,Augsburg,de GER,4,617,4,AUT · CRO · SUI · TUN
+82,Beşiktaş,tr TUR,4,822,4,CIV · KOR · PAN · TUR
+83,Ajax,nl NED,4,722,3,JPN-2 · CRO · NED
+84,Genk,be BEL,4,323,4,COD · ECU · JPN · MAR
+85,Athletic Club,es ESP,4,1716,2,ESP-3 · GHA
+86,Midtjylland,dk DEN,4,301,3,KOR-2 · CRO · ECU
+87,Atlético Mineiro,br BRA,4,805,2,ECU-3 · PAR
+88,Al-Shorta,iq IRQ,4,228,1,IRQ-4
+89,St Pauli,de GER,4,898,3,AUS-2 · BIH · SWE
+90,Leeds United,eng ENG,4,619,4,JPN · SWE · SUI · USA
+91,Porto,pt POR,4,971,4,CAN · CIV · POR · TUR
+92,AEL Limassol,cy CYP,4,255,3,COD-2 · MEX · RSA
+93,Braga,pt POR,4,450,4,AUT · CZE · SWE · URU
+94,Al-Wakrah,qa QAT,4,471,2,QAT-3 · EGY
+95,Rangers,sct SCO,4,431,3,SCO-2 · BEL · NOR
+96,Freiburg,de GER,4,486,4,AUT · CRO · JPN · SUI
+97,Pakhtakor Tashkent FK,uz UZB,4,603,2,UZB-3 · IRQ
+98,Al Rayyan SC,qa QAT,4,507,1,QAT-4
+99,Rennes,fr FRA,4,794,4,FRA · GHA · JOR · SUI
+100,Al-Karma,iq IRQ,4,154,2,IRQ-2 · JOR-2
+101,Schalke 04,de GER,4,509,2,BIH-3 · AUT
+102,Brentford,eng ENG,4,622,4,BRA · ENG · NOR · SCO
+103,Everton,eng ENG,4,1320,3,SEN-2 · ENG · SCO
+104,Al-Ittihad,sa KSA,4,244,3,KSA-2 · ALG · BRA
+105,Sassuolo,it ITA,4,628,4,AUS · BIH · CAN · NOR
+106,River Plate,ar ARG,4,341,3,COL-2 · ARG · ECU
+107,Lens,fr FRA,4,584,4,BIH · COD · FRA · KSA
+108,Torino,it ITA,3,570,3,CRO · NOR · SCO
+109,Toronto FC,ca CAN,3,444,2,CAN-2 · HAI
+110,Charleroi,be BEL,3,,2,CIV-2 · ALG
+111,FC Dallas,us USA,3,222,3,CRO · HAI · SWE
+112,FC Copenhagen,dk DEN,3,86,3,CRO · JPN · TUN
+113,Atlanta United,us USA,3,797,2,PAR-2 · GHA
+114,Rijeka,hr CRO,3,180,2,BIH-2 · CRO
+115,Hamburger SV,de GER,3,152,3,CRO · NOR · SUI
+116,Como,it ITA,3,402,3,ARG · CRO · SEN
+117,Mallorca,es ESP,3,601,3,CAN · COL · POR
+118,Watford,eng ENG,3,511,3,AUS · COD · NOR
+119,Melbourne City,au AUS,3,665,1,AUS-3
+120,FC Nasaf,uz UZB,3,360,1,UZB-3
+121,Orlando City,us USA,3,571,3,CAN · CRO · PAR
+122,Al-Gharafa Sports Club,qa QAT,3,185,1,QAT-3
+123,Zamalek SC,eg EGY,3,326,1,EGY-3
+124,Le Havre,fr FRA,3,684,3,COD · JPN · SEN
+125,Werder Bremen,de GER,3,435,2,AUT-2 · JPN
+126,New York City FC,us USA,3,795,2,AUS-2 · USA
+127,Al-Arabi,qa QAT,3,452,1,QAT-3
+128,Heart of Midlothian,sct SCO,3,171,2,SCO-2 · AUS
+129,Wellington Phoenix,nz NZL,3,433,1,NZL-3
+130,Los Angeles FC,us USA,3,318,2,CAN-2 · KOR
+131,Al-Talaba,iq IRQ,3,150,1,IRQ-3
+132,Al Ain,ae UAE,3,546,3,EGY · MAR · PAR
+133,Minnesota United,us USA,3,787,3,COL · NZL · PAN
+134,Leicester City,eng ENG,3,822,2,GHA-2 · AUS
+135,Oviedo,es ESP,3,566,3,EGY · GHA · URU
+136,Vancouver Whitecaps,ca CAN,3,667,3,PAR · TUN · USA
+137,Sevilla,es ESP,3,1017,2,SUI-2 · NOR
+138,Jeonbuk Hyundai Motors,kr KOR,3,52,1,KOR-3
+139,Venezia,it ITA,3,365,3,AUT · ECU · IRQ
+140,Hull City,eng ENG,3,168,3,BIH · CAN · CRO
+141,Pumas UNAM,mx MEX,3,432,3,ECU · MEX · PAN
+142,Pafos FC,cy CYP,3,392,3,BIH · GHA · SWE
+143,Inter Miami,us USA,3,1231,2,ARG-2 · CAN
+144,Lorient,fr FRA,3,278,3,SEN · SUI · TUN
+145,Kasımpaşa,tr TUR,3,24,2,TUN-2 · TUR
+146,Bodø/Glimt,no NOR,3,498,1,NOR-3
+147,Union SG,be BEL,3,258,3,CAN · ECU · SWE
+148,Neftchi FK,uz UZB,3,54,1,UZB-3
+149,Sepahan,ir IRN,3,136,1,IRN-3
+150,Zwolle,nl NED,3,634,3,CPV · CUW · NZL
+151,Sparta Prague,cz CZE,3,126,1,CZE-3
+152,Rizespor,tr TUR,3,503,3,CIV · HAI · TUR
+153,Chicago Fire,us USA,3,360,3,CAN · RSA · USA
+154,Swansea City,eng ENG,3,446,3,AUS · KOR · NZL
+155,Universidad Católica,ec ECU,2,211,1,PAN-2
+156,ZED,eg EGY,2,46,1,EGY-2
+157,Osasuna,es ESP,2,155,2,CRO · ESP
+158,AE Kifisia,gr GRE,2,75,2,CUW · ECU
+159,Anderlecht,be BEL,2,189,2,CAN · MEX
+160,Red Star,rs SRB,2,394,2,AUT · KOR
+161,Viking,no NOR,2,308,2,NZL · NOR
+162,Al-Ettifaq,sa KSA,2,271,2,KSA · SCO
+163,LDU Quito,ec ECU,2,270,2,ECU · HAI
+164,Stoke City,eng ENG,2,,2,KOR · SWE
+165,Nordsjælland,dk DEN,2,267,2,EGY · GHA
+166,Maccabi Haifa FC,il ISR,2,73,2,CUW · SEN
+167,Plaza Amador,pa PAN,2,7,1,PAN-2
+168,Huracán,ar ARG,2,380,1,ECU-2
+169,Sheffield United,eng ENG,2,344,2,CUW · NZL
+170,Kilmarnock,sct SCO,2,9,2,COD · SCO
+171,Derby County,eng ENG,2,205,2,NOR · SWE
+172,NK Maribor,si SVN,2,194,2,CIV · TUN
+173,Olympiacos,gr GRE,2,328,2,IRN · MAR
+174,Standard Liège,be BEL,2,,2,COD · IRN
+175,76 Iğdır Belediyespor,tr TUR,2,600,2,CPV · CUW
+176,Selangor FA,my MAS,2,341,1,JOR-2
+177,Al-Wehdat SC,jo JOR,2,3,1,JOR-2
+178,Independiente,ar ARG,2,227,2,COL · PAR
+179,Ulsan HD,kr KOR,2,,1,KOR-2
+180,Toluca,mx MEX,2,385,1,MEX-2
+181,Philadelphia Union,us USA,2,259,2,HAI · RSA
+182,Lugano,ch SUI,2,313,2,HAI · TUN
+183,Red Bull Salzburg,at AUT,2,637,2,AUT · BIH
+184,Columbus Crew,us USA,2,302,2,CPV · USA
+185,Dynamo Moscow,ru RUS,2,461,2,MEX · PAR
+186,PAOK,gr GRE,2,349,2,GHA · MEX
+187,Hannover 96,de GER,2,476,2,RSA · TUN
+188,Cruz Azul,mx MEX,2,345,2,COL · MEX
+189,Genoa,it ITA,2,506,2,MEX · NOR
+190,Angers,fr FRA,2,152,2,HAI · MAR
+191,Internacional,br BRA,2,51,2,ECU · URU
+192,Middlesbrough,eng ENG,2,45,2,CAN · CUW
+193,Sint-Truiden,be BEL,2,239,1,JPN-2
+194,Volendam,nl NED,2,255,1,CUW-2
+195,Girona,es ESP,2,468,2,BEL · MAR
+196,San Diego FC,us USA,2,1,2,CPV · PAN
+197,FC Tokyo,jp JPN,2,286,2,JPN · KOR
+198,Zenit,ru RUS,2,470,1,BRA-2
+199,Rayo Vallecano,es ESP,2,184,2,GHA · SEN
+200,Cremonese,it ITA,2,128,2,NOR · PAR
+201,Telstar,nl NED,2,14,1,CUW-2
+202,Castellón,es ESP,2,176,2,AUS · COD
+203,Miami FC,us USA,2,505,1,CUW-2
+204,Al-Najma,sa KSA,2,129,2,EGY · IRQ
+205,USM Alger,dz ALG,2,90,1,ALG-2
+206,Club Africain,tn TUN,2,139,1,TUN-2
+207,Tijuana,mx MEX,2,242,2,ECU · MEX
+208,Dibba Al Fujairah,ae UAE,2,193,2,IRQ · UZB
+209,Foolad,ir IRN,2,540,1,IRN-2
+210,Brøndby,dk DEN,2,237,2,AUT · BIH
+211,Ipswich Town,eng ENG,2,180,2,IRQ · SCO
+212,Espérance de Tunis,tn TUN,2,202,2,ALG · TUN
+213,Vizela,pt POR,2,6,1,HAI-2
+214,RKC Waalwijk,nl NED,2,22,1,CUW-2
+215,Al Bataeh,ae UAE,2,390,2,CPV · UZB
+216,Deportivo Saprissa,cr CRC,2,136,1,PAN-2
+217,Trabzonspor,tr TUR,2,297,2,CPV · CIV
+218,LASK,at AUT,2,347,2,AUT · PAN
+219,Saint-Étienne,fr FRA,2,93,2,GHA · NZL
+220,Grêmio,br BRA,2,1,2,BRA · PAR
+221,Al-Faisaly,sa KSA,2,,1,JOR-2
+222,Wrexham,eng ENG,2,220,2,NZL · SCO
+223,Kashima Antlers,jp JPN,2,,2,JPN · KOR
+224,Cerro Porteño,py PAR,2,246,1,PAR-2
+225,Colorado Springs Switchbacks,us USA,2,,1,HAI-2
+226,Al-Ittihad Kalba,ae UAE,2,296,1,IRN-2
+227,Parma,it ITA,2,750,2,AUS · JPN
+228,Dinamo Zagreb,hr CRO,2,450,2,CRO · SCO
+229,Navbahor Namangan,uz UZB,2,91,1,UZB-2
+230,Celta Vigo,es ESP,2,5,2,ESP · SWE
+231,Panathinaikos,gr GRE,2,,2,CIV · URU
+232,Hibernian,sct SCO,2,180,2,COD · SCO
+233,Coventry City,eng ENG,2,55,2,GHA · USA
+234,Krasnodar,ru RUS,2,448,2,CPV · COL
+235,FK Bukhara Nurafshon,uz UZB,2,15,1,UZB-2
+236,NEC Nijmegen,nl NED,2,283,2,CUW · JPN
+237,AEK Larnaca,cy CYP,1,31,1,IRQ
+238,Universidad de Concepción,cl CHI,1,76,1,PAN
+239,Beveren,be BEL,1,41,1,CUW
+240,Stade Nyonnais,ch SUI,1,,1,ALG
+241,Santos Laguna,mx MEX,1,,1,MEX
+242,Maccabi Tel Aviv FC,il ISR,1,104,1,CPV
+243,Udinese,it ITA,1,138,1,SWE
+244,Al-Shamal Sports Club,qa QAT,1,69,1,QAT
+245,Paris FC,fr FRA,1,20,1,ALG
+246,Alanyaspor,tr TUR,1,46,1,COD
+247,Mechelen,be BEL,1,180,1,MAR
+248,Estrela,pt POR,1,139,1,CPV
+249,RS Berkane,ma MAR,1,,1,MAR
+250,Hellas Verona,it ITA,1,331,1,ALG
+251,Deportivo La Guaira,ve VEN,1,87,1,PAN
+252,Lanús,ar ARG,1,161,1,PAR
+253,Sparta Rotterdam,nl NED,1,1,1,CUW
+254,Al-Sharjah SCC,ae UAE,1,,1,KOR
+255,AC Omonia,cy CYP,1,131,1,CPV
+256,Molde,no NOR,1,,1,RSA
+257,Pachuca,mx MEX,1,287,1,ECU
+258,Norrköping,se SWE,1,,1,TUN
+259,Kayserispor,tr TUR,1,179,1,CUW
+260,Daejeon Hana Citizen,kr KOR,1,70,1,KOR
+261,Athletico Paranaense,br BRA,1,,1,COL
+262,Torreense,pt POR,1,,1,CPV
+263,Al-Ahli Dubai FC,ae UAE,1,264,1,IRN
+264,Widzew Łódź,pl POL,1,180,1,COD
+265,Zürich,ch SUI,1,233,1,CUW
+266,Siwelele,za RSA,1,,1,RSA
+267,Sydney FC,au AUS,1,197,1,AUS
+268,Nacional,uy URU,1,,1,PAN
+269,Montpellier,fr FRA,1,143,1,COD
+270,Kaizer Chiefs,za RSA,1,,1,RSA
+271,Barnsley,eng ENG,1,,1,CAN
+272,FC Juárez,mx MEX,1,233,1,PAN
+273,Utrecht,nl NED,1,188,1,IRQ
+274,Holstein Kiel,de GER,1,217,1,SWE
+275,Almere City,nl NED,1,220,1,HAI
+276,Violette AC,ht HAI,1,,1,HAI
+277,Slovan Liberec,cz CZE,1,68,1,BIH
+278,Karlsruher,de GER,1,16,1,BIH
+279,Southampton,eng ENG,1,2,1,SCO
+280,Albirex Niigata,jp JPN,1,62,1,AUS
+281,Nashville SC,us USA,1,123,1,IRQ
+282,Rotherham United,eng ENG,1,,1,CUW
+283,Cultural Leonesa,es ESP,1,122,1,QAT
+284,Western Sydney Wanderers,au AUS,1,,1,NZL
+285,AZ Alkmaar,nl NED,1,77,1,MEX
+286,CS San Lorenzo,py PAR,1,480,1,PAR
+287,New England Revolution,us USA,1,90,1,USA
+288,Vitória Guimarães,pt POR,1,57,1,CPV
+289,Sturm Graz,at AUT,1,45,1,BIH
+290,Toulouse,fr FRA,1,90,1,USA
+291,Győr,hu HUN,1,45,1,ALG
+292,Colorado Rapids,us USA,1,210,1,AUS
+293,Vélez Sarsfield,ar ARG,1,,1,COL
+294,Fiorentina,it ITA,1,270,1,CRO
+295,RZ Pellets WAC,at AUT,1,,1,AUT
+296,Terengganu City,my MAS,1,30,1,CUW
+297,Sarpsborg 08,no NOR,1,23,1,IRQ
+298,Ludogorets Razgrad,bg BUL,1,264,1,CPV
+299,Farense,pt POR,1,32,1,CPV
+300,Hapoel Ironi Kiryat Shmona,il ISR,1,242,1,PAN
+301,FC Surkhon,uz UZB,1,179,1,UZB
+302,Pisa,it ITA,1,156,1,SUI
+303,Neom,sa KSA,1,32,1,KSA
+304,Club Olimpia,py PAR,1,,1,PAR
+305,FK Dinamo Samarqand,uz UZB,1,95,1,UZB
+306,Gent,be BEL,1,169,1,HAI
+307,VVV-Venlo,nl NED,1,,1,CUW
+308,Montana,bg BUL,1,,1,CPV
+309,Konyaspor,tr TUR,1,90,1,CUW
+310,Grazer AK,at AUT,1,163,1,AUS
+311,Al-Ula,sa KSA,1,270,1,KSA
+312,Lokomotiv Moscow,ru RUS,1,314,1,MEX
+313,Polokwane City,za RSA,1,,1,RSA
+314,Atlético San Luis,mx MEX,1,204,1,URU
+315,Lechia Gdańsk,pl POL,1,,1,NZL
+316,São Paulo,br BRA,1,189,1,PAR
+317,Seattle Sounders,us USA,1,,1,USA
+318,Port Vale,eng ENG,1,,1,NZL
+319,Bastia,fr FRA,1,270,1,HAI
+320,Servette,ch SUI,1,45,1,TUN
+321,Cosmos Koblenz,de GER,1,,1,HAI
+322,Ferencváros,hu HUN,1,117,1,HAI
+323,Turan Tovuz,az AZE,1,,1,PAN
+324,Hajduk Split,hr CRO,1,126,1,CAN
+325,Gil Vicente,pt POR,1,269,1,CIV
+326,Frosinone,it ITA,1,1,1,ALG
+327,Elche,es ESP,1,,1,AUT
+328,Braintree Town,eng ENG,1,,1,NZL
+329,Puskás Akadémia,hu HUN,1,166,1,CPV
+330,Cracovia,pl POL,1,247,1,IRQ
+331,Santos,br BRA,1,39,1,BRA
+332,El Gouna FC,eg EGY,1,,1,EGY
+333,Al-Fateh,sa KSA,1,4,1,MAR
+334,Portsmouth,eng ENG,1,96,1,PAR
+335,Samsunspor,tr TUR,1,,1,SEN
+336,Port FC,th THA,1,43,1,IRQ
+337,Boca Juniors,ar ARG,1,473,1,ARG
+338,Gangwon FC,kr KOR,1,270,1,KOR
+339,Union Berlin,de GER,1,149,1,TUN
+340,Slaven Belupo,hr CRO,1,,1,BIH
+341,Charlton Athletic,eng ENG,1,36,1,SCO
+342,Atlas,mx MEX,1,480,1,COL
+343,Gaziantep,tr TUR,1,,1,BIH
+344,Al-Sailiya SC,qa QAT,1,268,1,JOR
+345,Raja Casablanca,ma MAR,1,2,1,JOR
+346,JS Kabylie,dz ALG,1,25,1,ALG
+347,Ahly Sfaxien,tn TUN,1,180,1,TUN
+348,Reims,fr FRA,1,307,1,JPN
+349,Al Jazira Club,ae UAE,1,40,1,COD
+350,Vasco da Gama,br BRA,1,1,1,COL
+351,Al-Shabab,sa KSA,1,54,1,JOR
+352,Fluminense,br BRA,1,224,1,URU
+353,Dender,be BEL,1,46,1,IRN
+354,Rosario Central,ar ARG,1,75,1,COL
+355,Machida Zelvia,jp JPN,1,24,1,AUS
+356,Monastir,tn TUN,1,,1,TUN
+357,Pogoń Szczecin,pl POL,1,162,1,IRQ
+358,St Patrick's Athletic,ie IRL,1,,1,GHA
+359,Independiente Rivadavia,ar ARG,1,53,1,PAR
+360,Spartak Moscow,ru RUS,1,34,1,COD
+361,Zhejiang Professional,cn CHN,1,32,1,KOR
+362,Apollon Limassol,cy CYP,1,76,1,CPV
+363,El Paso Locomotive,us USA,1,,1,HAI
+364,Sampdoria,it ITA,1,27,1,BIH
+365,Levante,es ESP,1,2,1,AUS
+366,Abha,sa KSA,1,166,1,CUW
+367,Persib Bandung,id IDN,1,90,1,IRQ
+368,Independiente del Valle,ec ECU,1,45,1,ECU
+369,AGF,dk DEN,1,24,1,IRQ
+370,Al-Fayha,sa KSA,1,270,1,PAN
+371,Motherwell,sct SCO,1,264,1,NZL
+372,Akron Tolyatti,ru RUS,1,78,1,CPV
+373,Granada,es ESP,1,270,1,ALG
+374,Twente,nl NED,1,111,1,ALG
+375,Sanfrecce Hiroshima,jp JPN,1,,1,JPN
+376,Accra Hearts of Oak,gh GHA,1,225,1,GHA
+377,Pari Nizhny Novgorod,ru RUS,1,,1,PAN
+378,Academia Puerto Cabello,ve VEN,1,166,1,PAN
+379,Espanyol,es ESP,1,35,1,COD
+380,Universitatea Cluj,ro ROU,1,67,1,BIH
+381,Slovan Bratislava,sk SVK,1,178,1,PAN
+382,FCSB,ro ROU,1,105,1,CPV
+383,AIK Stockholm,se SWE,1,180,1,SWE
+384,Silkeborg,dk DEN,1,159,1,NZL
+385,Düsseldorf,de GER,1,42,1,SUI
+386,Mjällby,se SWE,1,166,1,SWE
+387,Casa Pia,pt POR,1,174,1,CPV
+388,Junior,co COL,1,,1,URU
+389,OKMK Olmaliq,uz UZB,1,,1,UZB
+390,Al-Salmiya SC,kw KUW,1,178,1,JOR
+391,Al-Wahda FC,ae UAE,1,90,1,IRN
+392,Austin FC,us USA,1,4,1,CAN
+393,Sochaux,fr FRA,1,,1,HAI
+394,Corinthians,br BRA,1,54,1,NED
+395,Chaves,pt POR,1,390,1,CPV
+396,Antwerp,be BEL,1,,1,ECU
+397,Borac Banja Luka,ba BIH,1,,1,BIH
+398,Cagliari,it ITA,1,2,1,COL
+399,Al Dhafra SCC,ae UAE,1,235,1,IRQ
+400,FC Astana,kz KAZ,1,179,1,BIH
+401,Heracles Almelo,nl NED,1,80,1,AUS
+402,SJK,fi FIN,1,,1,CPV
+403,Atromitos,gr GRE,1,330,1,COD
+404,Aris Limassol,cy CYP,1,6,1,COD
+405,St. Gallen,ch SUI,1,135,1,GHA
+406,Talleres Córdoba,ar ARG,1,55,1,PAR
+407,Randers,dk DEN,1,,1,AUS
+408,Portland Timbers,us USA,1,270,1,NZL
+409,AEK Athens,gr GRE,1,31,1,MEX
+410,Rostov,ru RUS,1,244,1,IRN
+411,Peterborough United,eng ENG,1,,1,NZL
+412,Baniyas FC,ae UAE,1,237,1,UZB
+413,Nantes,fr FRA,1,90,1,COL
+414,AS FAR,ma MAR,1,,1,MAR
+415,Tigres UANL,mx MEX,1,,1,CAN
+416,Botafogo–RJ,br BRA,1,46,1,BRA
+417,Al-Quwa Al-Jawiya,iq IRQ,1,264,1,JOR
+418,Valencia,es ESP,1,31,1,SUI
+419,Al-Nasr Dubai,ae UAE,1,45,1,IRN
+420,Racing Santander,es ESP,1,469,1,COL
+421,FC Seoul,kr KOR,1,270,1,JOR
+422,Atlético Nacional,co COL,1,,1,COL
+423,Millwall,eng ENG,1,270,1,NZL
+424,Tondela,pt POR,1,229,1,RSA
+425,Malavan,ir IRN,1,,1,IRN
+426,Nancy,fr FRA,1,270,1,HAI
+427,Cercle Brugge,be BEL,1,28,1,CIV
+428,FC Cincinnati,us USA,1,90,1,USA
+429,Lokomotiva Zagreb,hr CRO,1,,1,JOR
+430,Barcelona B,es ESP,1,60,1,EGY
+431,APOEL FC,cy CYP,1,,1,AUS
+432,Charlotte FC,us USA,1,360,1,USA
+433,Birmingham City,eng ENG,1,204,1,KOR
+434,Marathón,hn HON,1,,1,PAN
+435,Zulte Waregem,be BEL,1,,1,HAI
+436,Cobresal,cl CHI,1,,1,PAN
+437,Austria Wien,at AUT,1,113,1,KOR
+438,Qatar SC,qa QAT,1,255,1,JOR
+439,Mazatlán,mx MEX,1,249,1,PAN
+440,Shamrock Rovers,ie IRL,1,390,1,CPV
+441,FC Noah,am ARM,1,,1,COD
+442,Malmö,se SWE,1,37,1,SWE
+443,Hradec Králové,cz CZE,1,54,1,CZE
+444,Dynamo Makhachkala,ru RUS,1,89,1,TUN
+445,Red Bull Bragantino,br BRA,1,45,1,PAR
+446,Newcastle Jets,au AUS,1,,1,NZL
+447,1. FC Tatran Prešov B,sk SVK,1,56,1,HAI
+448,Melbourne Victory,au AUS,1,75,1,AUS
+449,León,mx MEX,1,37,1,PAN
+450,Den Bosch,nl NED,1,,1,CUW
