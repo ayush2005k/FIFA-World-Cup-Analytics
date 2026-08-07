@@ -1,0 +1,27 @@
+match_number,date,home_team,away_team,match_result,predicted_result,correct
+79,2026-06-30,Mexico,Ecuador,H,H,True
+80,2026-07-01,England,Congo DR,H,H,True
+81,2026-07-01,Belgium,Senegal,H,H,True
+82,2026-07-01,United States,Bosnia–Herz,H,D,False
+83,2026-07-02,Spain,Austria,H,H,True
+84,2026-07-02,Portugal,Croatia,H,H,True
+85,2026-07-02,Switzerland,Algeria,H,D,False
+86,2026-07-03,Australia,Egypt,D,A,False
+87,2026-07-03,Argentina,Cabo Verde,H,D,False
+88,2026-07-03,Colombia,Ghana,H,H,True
+89,2026-07-04,Canada,Morocco,A,D,False
+90,2026-07-04,Paraguay,France,A,A,True
+91,2026-07-05,Brazil,Norway,A,D,False
+92,2026-07-05,Mexico,England,A,D,False
+93,2026-07-06,Portugal,Spain,A,H,False
+94,2026-07-06,United States,Belgium,A,D,False
+95,2026-07-07,Argentina,Egypt,H,D,False
+96,2026-07-07,Switzerland,Colombia,D,D,True
+97,2026-07-09,France,Morocco,H,D,False
+98,2026-07-10,Spain,Belgium,H,D,False
+99,2026-07-11,Norway,England,A,D,False
+100,2026-07-11,Argentina,Switzerland,H,D,False
+101,2026-07-14,France,Spain,A,D,False
+102,2026-07-15,England,Argentina,A,D,False
+103,2026-07-18,France,England,A,D,False
+104,2026-07-19,Spain,Argentina,H,D,False
