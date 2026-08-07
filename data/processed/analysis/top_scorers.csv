@@ -1,0 +1,16 @@
+player,team,position,games,minutes,goals,goals_per90,shots,shots_on_target
+Kylian Mbappé,France,FW,8,695.0,10.0,1.29,41.0,23.0
+Lionel Messi,Argentina,FW,8,740.0,8.0,0.97,35.0,18.0
+Erling Haaland,Norway,FW,5,465.0,7.0,1.35,20.0,13.0
+Jude Bellingham,England,MF,8,614.0,7.0,1.03,19.0,13.0
+Ousmane Dembélé,France,MF,8,592.0,6.0,0.91,20.0,10.0
+Harry Kane,England,FW,7,652.0,6.0,0.83,23.0,12.0
+Mikel Oyarzabal,Spain,FW,8,601.0,5.0,0.75,23.0,12.0
+Ismaila Sarr,Senegal,"MF,FW",4,364.0,4.0,0.99,17.0,6.0
+Julián Quiñones,Mexico,"FW,MF",5,410.0,4.0,0.88,14.0,6.0
+Vinicius Júnior,Brazil,FW,5,440.0,4.0,0.82,17.0,11.0
+Deniz Undav,Germany,FW,4,151.0,3.0,1.79,6.0,4.0
+Johan Manzambi,Switzerland,"MF,FW",4,199.0,3.0,1.36,6.0,3.0
+Brian Brobbey,Netherlands,FW,4,223.0,3.0,1.21,4.0,3.0
+Romelu Lukaku,Belgium,FW,6,233.0,3.0,1.16,6.0,3.0
+Elijah Just,New Zealand,MF,3,264.0,3.0,1.02,7.0,5.0

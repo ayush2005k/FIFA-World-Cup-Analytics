@@ -1,0 +1,533 @@
+player,team,primary_position,minutes,goals,assists,player_rating_100
+Unai Simón,Spain,GK,750.0,0.0,0.0,95.0
+Benjamin Asare,Ghana,GK,225.0,0.0,0.0,92.8052805280528
+Camilo Vargas,Colombia,GK,480.0,0.0,0.0,88.56765676567657
+Kylian Mbappé,France,FW,695.0,10.0,4.0,85.26378896882495
+Raúl Rangel,Mexico,GK,437.0,0.0,0.0,79.98679867986799
+Patrick Beach,Australia,GK,388.0,0.0,0.0,74.38943894389438
+Diogo Costa,Portugal,GK,450.0,0.0,0.0,73.02970297029702
+Vozinha,Cabo Verde,GK,390.0,0.0,0.0,71.68316831683168
+Erling Haaland,Norway,FW,465.0,7.0,0.0,69.51020726196042
+Orlando Gill,Paraguay,GK,480.0,0.0,0.0,68.34323432343233
+Alireza Beiranvand,IR Iran,GK,270.0,0.0,0.0,68.30349834983498
+Alisson,Brazil,GK,450.0,0.0,0.0,67.35313531353134
+Lionel Messi,Argentina,FW,740.0,8.0,4.0,65.76165295730515
+Yahia Fofana,Côte d'Ivoire,GK,360.0,0.0,0.0,65.67656765676568
+Gregor Kobel,Switzerland,GK,600.0,0.0,0.0,64.07907590759075
+Mohammed Al-Owais,Saudi Arabia,GK,270.0,0.0,0.0,63.617029702970285
+Matt Freese,United States,GK,360.0,0.0,0.0,60.59405940594059
+Yassine Bounou,Morocco,GK,570.0,0.0,0.0,59.524620462046194
+Eloy Room,Curaçao,GK,270.0,0.0,0.0,58.86455445544554
+Ronwen Williams,South Africa,GK,360.0,0.0,0.0,58.38283828382838
+Mory Diaw,Senegal,GK,238.0,0.0,0.0,57.689768976897696
+Angus Gunn,Scotland,GK,270.0,0.0,0.0,57.346402640264024
+Emiliano Martínez,Argentina,GK,810.0,0.0,0.0,57.128712871287135
+Romelu Lukaku,Belgium,FW,233.0,3.0,1.0,56.7932450083971
+Zion Suzuki,Japan,GK,360.0,0.0,0.0,56.60066006600659
+Mike Maignan,France,GK,720.0,0.0,0.0,55.97359735973597
+Hernán Galíndez,Ecuador,GK,360.0,0.0,0.0,55.67656765676568
+Vinicius Júnior,Brazil,FW,440.0,4.0,1.0,55.334156785243735
+Jordan Pickford,England,GK,660.0,0.0,0.0,54.476303630363034
+Thibaut Courtois,Belgium,GK,550.0,0.0,0.0,52.88462046204619
+Nathan Saliba,Canada,MF,182.0,1.0,2.0,51.05295484894148
+Bart Verbruggen,Netherlands,GK,390.0,0.0,0.0,50.297029702970285
+Cyle Larin,Canada,FW,190.0,2.0,0.0,50.195270785659794
+Brian Brobbey,Netherlands,FW,223.0,3.0,0.0,49.922986937024774
+Kim Seung-gyu,Korea Republic,GK,270.0,0.0,0.0,49.504950495049506
+Marvin Senaya,Ghana,DF,278.0,0.0,0.0,49.00563465311667
+Maxime Crépeau,Canada,GK,450.0,0.0,0.0,49.003300330033
+Dominik Livaković,Croatia,GK,360.0,0.0,0.0,48.81188118811881
+Lionel Mpasi,Congo DR,GK,360.0,0.0,0.0,48.646864686468646
+Raúl Jiménez,Mexico,FW,317.0,3.0,0.0,48.46454532985874
+Jacob Widell Zetterström,Sweden,GK,180.0,0.0,0.0,48.38283828382838
+Rayan Aït-Nouri,Algeria,DF,284.0,0.0,0.0,48.052176696542894
+Harry Kane,England,FW,652.0,6.0,1.0,47.10322752734063
+Mikel Oyarzabal,Spain,FW,601.0,5.0,1.0,46.6854758976585
+Lautaro Martínez,Argentina,FW,310.0,3.0,1.0,46.09817671809257
+Crysencio Summerville,Netherlands,FW,253.0,2.0,2.0,45.936300624391365
+Matheus Cunha,Brazil,FW,290.0,3.0,0.0,45.68290854572714
+Nicolas Pépé,Côte d'Ivoire,FW,234.0,2.0,1.0,45.21150749411619
+Ørjan Nyland,Norway,GK,480.0,0.0,0.0,45.01650165016501
+Cody Gakpo,Netherlands,FW,368.0,3.0,1.0,44.58057655954631
+Andreas Schjelderup,Norway,FW,252.0,1.0,3.0,43.92282033586381
+Kai Havertz,Germany,FW,353.0,3.0,0.0,43.52198546619042
+Bukayo Saka,England,MF,358.0,3.0,3.0,43.26212225957187
+Alexander Isak,Sweden,FW,357.0,1.0,3.0,42.85430114074615
+Folarin Balogun,United States,FW,312.0,3.0,0.0,42.46167781493868
+Orlando Mosquera,Panama,GK,270.0,0.0,0.0,41.980198019801975
+Merchas Doski,Iraq,DF,270.0,0.0,0.0,41.961926961926956
+Mostafa Shobeir,Egypt,GK,480.0,0.0,0.0,41.71617161716172
+Johan Manzambi,Switzerland,MF,199.0,3.0,2.0,41.4398077343238
+Uğurcan Çakır,Türkiye,GK,270.0,0.0,0.0,40.59405940594059
+Cristiano Ronaldo,Portugal,FW,440.0,3.0,0.0,39.72381422924901
+Khuliso Mudau,South Africa,DF,360.0,0.0,0.0,39.644230769230774
+Matej Kovar,Czechia,GK,270.0,0.0,0.0,39.603960396039604
+Jonathan David,Canada,FW,420.0,3.0,0.0,39.09730848861284
+Alexander Schlager,Austria,GK,360.0,0.0,0.0,39.009900990099005
+Amad Diallo,Côte d'Ivoire,MF,185.0,2.0,0.0,38.40937988764076
+Johny Placide,Haiti,GK,270.0,0.0,0.0,38.21782178217821
+Mohamed Amine Ben Hamida,Tunisia,DF,202.0,0.0,0.0,37.73713909852523
+Luca Zidane,Algeria,GK,270.0,0.0,0.0,37.68976897689769
+Musa Al-Taamari,Jordan,FW,215.0,1.0,1.0,36.86585776879002
+Viktor Gyökeres,Sweden,FW,360.0,1.0,2.0,36.66384863123994
+Felix Nmecha,Germany,MF,270.0,1.0,1.0,36.62097751952824
+Ayase Ueda,Japan,FW,321.0,2.0,1.0,36.2526524899544
+Mahmoud Abunada,Qatar,GK,270.0,0.0,0.0,35.97359735973597
+Jude Bellingham,England,MF,614.0,7.0,1.0,35.74120905766565
+Livano Comenencia,Curaçao,MF,233.0,1.0,0.0,35.631623772135065
+Aurélien Tchouaméni,France,MF,360.0,0.0,1.0,34.73174048174048
+Max Crocombe,New Zealand,GK,270.0,0.0,0.0,34.587458745874585
+Charles De Ketelaere,Belgium,MF,350.0,3.0,1.0,34.29489206445729
+Pape Gueye,Senegal,MF,234.0,2.0,1.0,33.77859289230527
+Ali Abdi,Tunisia,DF,269.0,0.0,0.0,33.763485585046915
+Malik Tillman,United States,MF,356.0,2.0,1.0,33.74391343065012
+Matías Galarza,Paraguay,MF,388.0,1.0,1.0,33.56533780726967
+Yazan Al-Arab,Jordan,DF,270.0,0.0,0.0,33.035612535612536
+Fernando Muslera,Uruguay,GK,225.0,0.0,0.0,33.003300330033
+Manuel Neuer,Germany,GK,390.0,0.0,0.0,33.003300330033
+Yazeed Abulaila,Jordan,GK,270.0,0.0,0.0,33.003300330033
+Marcos Llorente,Spain,DF,187.0,0.0,1.0,32.9896039789088
+Dayot Upamecano,France,DF,660.0,0.0,1.0,32.93967725291835
+Stefan Posch,Austria,DF,331.0,0.0,0.0,31.637758012380367
+Mikel Merino,Spain,MF,199.0,2.0,0.0,31.360799640240323
+Ferran Torres,Spain,FW,288.0,1.0,1.0,31.19363929146538
+Saud Abdulhamid,Saudi Arabia,DF,269.0,0.0,0.0,31.09392466269789
+Denis Zakaria,Switzerland,DF,357.0,0.0,0.0,31.091589569850438
+Elijah Just,New Zealand,MF,264.0,3.0,0.0,31.016750048370607
+Alex Freeman,United States,DF,374.0,1.0,1.0,30.969906440145923
+Yoane Wissa,Congo DR,FW,360.0,3.0,0.0,30.924516908212563
+Alan Franco,Ecuador,DF,251.0,0.0,0.0,30.092218538433674
+Ramin Rezaeian,IR Iran,DF,270.0,2.0,1.0,29.914143290954886
+Michael Olise,France,MF,646.0,0.0,7.0,29.76584628186459
+Deroy Duarte,Cabo Verde,MF,264.0,1.0,0.0,29.693395646952958
+Djed Spence,England,DF,404.0,0.0,0.0,29.597326371433137
+Pedro Vite,Ecuador,MF,360.0,0.0,1.0,29.548870815175164
+Breel Embolo,Switzerland,FW,501.0,2.0,2.0,29.53035957071365
+Xaver Schlager,Austria,MF,238.0,0.0,1.0,29.517982017982014
+Pedro Porro,Spain,DF,563.0,2.0,0.0,29.440260617185476
+Lucas Paquetá,Brazil,MF,233.0,0.0,1.0,29.246852233416888
+Ismael Saibari,Morocco,FW,381.0,3.0,0.0,29.220015976263834
+Emmanuel Agbadou,Côte d'Ivoire,DF,270.0,0.0,0.0,29.093780615519744
+Nathaniel Brown,Germany,DF,282.0,1.0,1.0,29.000357233474716
+Luis Romo,Mexico,MF,264.0,1.0,1.0,28.831961297376317
+Abdallah Nasib,Jordan,DF,260.0,0.0,0.0,28.7822754168908
+Ismaila Sarr,Senegal,MF,364.0,4.0,1.0,28.585040934539265
+Mohanad Lasheen,Egypt,MF,359.0,0.0,0.0,28.534974774529093
+Juan Cáceres,Paraguay,DF,436.0,0.0,0.0,28.485691113832317
+Edson Álvarez,Mexico,DF,240.0,0.0,0.0,28.382430069930066
+Nikola Vasilj,Bosnia–Herz,GK,360.0,0.0,0.0,28.316831683168314
+Ibrahim Sangaré,Côte d'Ivoire,MF,268.0,0.0,1.0,28.313589395678946
+Bruno Guimarães,Brazil,MF,416.0,0.0,4.0,28.029715894473423
+Martin Expérience,Haiti,DF,270.0,0.0,0.0,27.97461797461797
+Sherel Floranus,Curaçao,DF,270.0,0.0,0.0,27.97461797461797
+Gonzalo Montiel,Argentina,DF,192.0,0.0,1.0,27.9059222027972
+Cristian Romero,Argentina,DF,608.0,1.0,0.0,27.576745217978054
+Aymen Dahmen,Tunisia,GK,180.0,0.0,0.0,27.52475247524752
+Paul Okon-Engstler,Australia,MF,197.0,0.0,1.0,27.51286784281708
+Julian Ryerson,Norway,DF,223.0,0.0,0.0,27.430148327009313
+Douglas Santos,Brazil,DF,441.0,0.0,0.0,27.42479742479742
+Anthony Gordon,England,MF,396.0,1.0,3.0,27.278939951864857
+Ramy Bensebaini,Algeria,DF,360.0,0.0,0.0,27.15899378399378
+Gideon Mensah,Ghana,DF,360.0,0.0,0.0,27.09440559440559
+Ruben Vargas,Switzerland,MF,284.0,2.0,1.0,27.089533756710736
+Andrés Cubas,Paraguay,MF,480.0,0.0,0.0,26.927083333333336
+Florian Wirtz,Germany,MF,361.0,0.0,3.0,26.809384761932037
+Saeid Ezatolahi,IR Iran,MF,264.0,0.0,0.0,26.67399711619079
+Ahmed Fatouh,Egypt,DF,267.0,0.0,0.0,26.556948994662722
+Diego Gómez,Paraguay,MF,304.0,0.0,0.0,26.456684762605814
+Rustam Ashurmatov,Uzbekistan,DF,256.0,0.0,0.0,26.245219624125877
+Omar Rekik,Tunisia,DF,180.0,1.0,0.0,26.215716248324945
+Riyad Mahrez,Algeria,MF,262.0,2.0,1.0,26.18972602792716
+Sebastian Berhalter,United States,MF,187.0,1.0,1.0,26.18971627458026
+Nikola Katić,Bosnia–Herz,DF,317.0,0.0,0.0,26.165648231894284
+Achraf Hakimi,Morocco,DF,570.0,1.0,2.0,26.149124585051357
+Abbosbek Fayzullayev,Uzbekistan,MF,220.0,1.0,0.0,26.079468291918882
+Ousmane Dembélé,France,MF,592.0,6.0,2.0,26.071025038416344
+Júnior Alonso,Paraguay,DF,390.0,0.0,0.0,26.02350492317048
+Timothy Castagne,Belgium,DF,478.0,0.0,1.0,25.994541205565397
+Hwang In-beom,Korea Republic,MF,263.0,1.0,1.0,25.93727757887123
+Tarik Muharemovic,Bosnia–Herz,DF,259.0,0.0,0.0,25.851445851445852
+Christ Inao Oulaï,Côte d'Ivoire,MF,208.0,0.0,0.0,25.778308230231307
+Bradley Barcola,France,MF,384.0,3.0,1.0,25.742266678068315
+Wilson Isidor,Haiti,FW,186.0,1.0,0.0,25.63736948729936
+Abduvohid Nematov,Uzbekistan,GK,180.0,0.0,0.0,25.412541254125408
+Elliot Anderson,England,MF,632.0,0.0,1.0,25.394472753443587
+Mohamed Hany,Egypt,DF,480.0,0.0,1.0,25.353583916083917
+Krépin Diatta,Senegal,DF,390.0,0.0,0.0,25.30831988524296
+Marcus Rashford,England,MF,223.0,1.0,1.0,25.156250781128925
+Lee Gi-hyuk,Korea Republic,DF,270.0,0.0,0.0,25.056591556591556
+Facundo Medina,Argentina,DF,308.0,0.0,1.0,24.918944691671964
+Deveron Fonville,Curaçao,DF,241.0,0.0,0.0,24.89902213968604
+Nathan Ngoy,Belgium,DF,335.0,0.0,0.0,24.6209163970358
+Frenkie de Jong,Netherlands,MF,328.0,0.0,0.0,24.57146512024561
+Dan Ndoye,Switzerland,MF,406.0,2.0,0.0,24.432698735547316
+Désiré Doué,France,MF,400.0,1.0,1.0,24.4001798925712
+João Cancelo,Portugal,DF,312.0,0.0,1.0,24.375896539358077
+Noor Al Rawabdeh,Jordan,MF,270.0,0.0,1.0,24.304325304325307
+Martin Ødegaard,Norway,MF,470.0,0.0,4.0,24.254837207196136
+Nicolás Otamendi,Argentina,DF,247.0,0.0,0.0,24.200050961184566
+Kaishū Sano,Japan,MF,270.0,1.0,1.0,24.145667000739472
+Abdulelah Al-Amri,Saudi Arabia,DF,239.0,1.0,0.0,24.110319975337255
+Michal Sadílek,Czechia,MF,183.0,1.0,0.0,23.95949184259947
+Daniel Muñoz,Colombia,DF,394.0,2.0,0.0,23.894431728795002
+Rodrigo Bentancur,Uruguay,MF,270.0,0.0,0.0,23.842916342916343
+Amar Dedić,Bosnia–Herz,DF,270.0,0.0,0.0,23.68831571005484
+Milad Mohammadi,IR Iran,DF,205.0,0.0,0.0,23.626159630401407
+Hannibal Mejbri,Tunisia,MF,270.0,0.0,2.0,23.61605463779377
+Sphephelo Sithole,South Africa,MF,229.0,0.0,0.0,23.486884294744556
+Chris Wood,New Zealand,FW,270.0,0.0,2.0,23.38969404186796
+Aaron Wan-Bissaka,Congo DR,DF,354.0,0.0,0.0,23.299454782505627
+Saman Ghoddos,IR Iran,MF,208.0,0.0,0.0,23.232416621839704
+Lewis Ferguson,Scotland,MF,270.0,0.0,0.0,23.12382464556378
+Pico,Cabo Verde,DF,390.0,0.0,0.0,23.10928814774968
+Teboho Mokoena,South Africa,MF,270.0,1.0,0.0,23.0266789034905
+Mostafa Ziko,Egypt,MF,370.0,2.0,1.0,22.92854423289206
+Diney,Cabo Verde,DF,390.0,0.0,0.0,22.877205291921005
+Joshua Kimmich,Germany,DF,351.0,0.0,2.0,22.809373210711005
+Jorge Sánchez,Mexico,DF,348.0,0.0,1.0,22.72256791184827
+Damián Bobadilla,Paraguay,MF,189.0,0.0,0.0,22.678247678247676
+Mohannad Abu Taha,Jordan,DF,264.0,0.0,0.0,22.641714346259796
+Ivan Perišić,Croatia,DF,360.0,1.0,1.0,22.587770120378817
+Jhon Arias,Colombia,MF,377.0,1.0,0.0,22.572514173252266
+Fredrik Aursnes,Norway,DF,304.0,0.0,0.0,22.560153662127345
+Nicolas Jackson,Senegal,FW,234.0,0.0,1.0,22.53344481605351
+Brahim Díaz,Morocco,MF,457.0,0.0,4.0,22.39094841035665
+Abdukodir Khusanov,Uzbekistan,DF,270.0,0.0,0.0,22.224682724682722
+Enner Valencia,Ecuador,FW,287.0,0.0,0.0,22.110286320254506
+Gonzalo Plata,Ecuador,FW,360.0,1.0,0.0,22.059380032206118
+Armando Obispo,Curaçao,DF,270.0,0.0,0.0,22.052447552447553
+Guillermo Varela,Uruguay,DF,270.0,0.0,0.0,22.052447552447553
+Kristoffer Nordfeldt,Sweden,GK,180.0,0.0,0.0,21.980198019801975
+Thomas Meunier,Belgium,DF,190.0,0.0,1.0,21.863852394744843
+Nicolas Raskin,Belgium,MF,341.0,0.0,2.0,21.853472295905043
+Guéla Doué,Côte d'Ivoire,DF,277.0,0.0,0.0,21.830930802049934
+Gustaf Lagerbielke,Sweden,DF,360.0,0.0,0.0,21.755747272051618
+Yasin Ayari,Sweden,MF,339.0,2.0,0.0,21.631583541933676
+Antonee Robinson,United States,DF,348.0,0.0,0.0,21.570814243228032
+Willian Pacho,Ecuador,DF,360.0,0.0,0.0,21.56198270328705
+Yan Diomandé,Côte d'Ivoire,MF,329.0,0.0,1.0,21.504878100622783
+Julián Quiñones,Mexico,MF,410.0,4.0,1.0,21.46270767055497
+Hassan Al Tambakti,Saudi Arabia,DF,212.0,0.0,0.0,21.311023881778596
+Anthony Elanga,Sweden,MF,217.0,2.0,0.0,21.28546535278653
+Nizar Al Rashdan,Jordan,MF,255.0,1.0,0.0,21.24980674341288
+Lucas Bergvall,Sweden,MF,181.0,0.0,1.0,21.16794807402542
+Abdülkerim Bardakcı,Türkiye,DF,265.0,0.0,0.0,21.162181542821408
+Rayan,Brazil,MF,288.0,0.0,1.0,21.033331855342723
+Maxi Araújo,Uruguay,MF,250.0,2.0,1.0,20.95942028985508
+Abdulla Abdullaev,Uzbekistan,DF,180.0,0.0,0.0,20.8517871017871
+Josip Šutalo,Croatia,DF,360.0,0.0,0.0,20.8517871017871
+Nasser Al-Dawsari,Saudi Arabia,MF,207.0,0.0,0.0,20.7864599168947
+Alexis Mac Allister,Argentina,MF,750.0,1.0,1.0,20.713490084794433
+Mateo Kovačić,Croatia,MF,270.0,0.0,1.0,20.6898077767643
+Ró-Ró,Qatar,DF,270.0,0.0,0.0,20.684171705910835
+Casemiro,Brazil,MF,379.0,1.0,0.0,20.683526255397318
+Pedri,Spain,MF,499.0,0.0,0.0,20.57922473100656
+Ryan Gravenberch,Netherlands,MF,345.0,0.0,2.0,20.5316712273234
+Ricardo Adé,Haiti,DF,270.0,0.0,0.0,20.511936533675662
+Sead Kolašinac,Bosnia–Herz,DF,337.0,0.0,1.0,20.5056960843311
+Julio Enciso,Paraguay,FW,386.0,1.0,2.0,20.494668468874373
+Aubrey Modiba,South Africa,DF,346.0,0.0,0.0,20.493368154840887
+Tyler Adams,United States,MF,341.0,0.0,0.0,20.431474683674093
+Boualem Khoukhi,Qatar,DF,270.0,1.0,0.0,20.309052997458792
+Nathan Patterson,Scotland,DF,185.0,0.0,0.0,20.288225288225288
+Joel Ordóñez,Ecuador,DF,225.0,0.0,0.0,20.286402486402487
+João Félix,Portugal,MF,201.0,0.0,0.0,20.27574955868272
+Sidny Lopes Cabral,Cabo Verde,DF,285.0,1.0,0.0,20.218829733703874
+Juninho Bacuna,Curaçao,MF,254.0,0.0,0.0,20.214632166874548
+Richie Laryea,Canada,DF,429.0,0.0,0.0,20.201491019368795
+Kevin Pina,Cabo Verde,MF,349.0,1.0,0.0,20.1735067805829
+Piero Hincapié,Ecuador,DF,339.0,0.0,0.0,20.025166573839137
+Adrien Rabiot,France,MF,585.0,0.0,1.0,19.880770660034873
+Thomas Partey,Ghana,MF,270.0,0.0,0.0,19.85884485884486
+Moteb Al-Harbi,Saudi Arabia,DF,188.0,0.0,0.0,19.840797500371966
+Ao Tanaka,Japan,MF,193.0,0.0,0.0,19.722634878075294
+Mbekezeli Mbokazi,South Africa,DF,360.0,0.0,0.0,19.696403837708182
+Kristoffer Ajer,Norway,DF,480.0,0.0,0.0,19.55114903212729
+Denzel Dumfries,Netherlands,DF,390.0,0.0,2.0,19.521548128571535
+Hannes Delcroix,Haiti,DF,270.0,0.0,0.0,19.478891478891477
+Aymeric Laporte,Spain,DF,727.0,0.0,1.0,19.418548678162335
+João Neves,Portugal,MF,390.0,1.0,0.0,19.4105110794074
+Montassar Talbi,Tunisia,DF,270.0,0.0,0.0,19.39277389277389
+Manuel Akanji,Switzerland,DF,600.0,0.0,0.0,19.386490321272927
+Arda Güler,Türkiye,MF,270.0,1.0,0.0,19.381165801455662
+Konrad Laimer,Austria,DF,360.0,0.0,1.0,19.195609945609945
+Miguel Almirón,Paraguay,MF,282.0,0.0,0.0,19.190472647919457
+Lisandro Martínez,Argentina,DF,624.0,1.0,1.0,19.083606842804166
+Hans Vanaken,Belgium,MF,319.0,1.0,2.0,19.011096803791364
+Amine Gouiri,Algeria,FW,251.0,1.0,0.0,18.998210058317454
+Leandro Trossard,Belgium,MF,506.0,2.0,2.0,18.9410884126471
+Keito Nakamura,Japan,MF,307.0,1.0,1.0,18.82417422071862
+Danley Jean-Jacques,Haiti,MF,259.0,0.0,0.0,18.785943785943786
+Juan Manuel Sanabria,Uruguay,DF,204.0,0.0,0.0,18.626593994241052
+Patrick Berg,Norway,MF,445.0,0.0,2.0,18.521725465545693
+Liberato Cacace,New Zealand,DF,220.0,0.0,0.0,18.43407086984162
+Sherzod Nasrullaev,Uzbekistan,DF,180.0,0.0,0.0,18.41184419445289
+Gabriel Gudmundsson,Sweden,DF,330.0,0.0,0.0,18.183831320194955
+Connor Metcalfe,Australia,MF,315.0,1.0,0.0,18.161506770202422
+Benjamin Tahirovic,Bosnia–Herz,MF,237.0,0.0,0.0,18.155262459059923
+Jamal Musiala,Germany,MF,270.0,1.0,0.0,18.107982463054928
+Petar Sučić,Croatia,MF,289.0,1.0,1.0,18.106808441545915
+Roberto Alvarado,Mexico,MF,428.0,0.0,3.0,18.078393569047776
+Anass Salah-Eddine,Morocco,DF,212.0,0.0,0.0,18.033381712626994
+Emam Ashour,Egypt,MF,362.0,2.0,0.0,17.867874778756352
+Lamine Yamal,Spain,MF,614.0,1.0,0.0,17.79679014277513
+Declan Rice,England,MF,557.0,1.0,2.0,17.736763405719774
+Daizen Maeda,Japan,MF,244.0,1.0,0.0,17.731118964190955
+Eldor Shomurodov,Uzbekistan,FW,269.0,1.0,0.0,17.72695436668283
+Fabián Ruiz Peña,Spain,MF,321.0,1.0,0.0,17.718560278495264
+Ricardo Rodríguez,Switzerland,DF,517.0,0.0,1.0,17.713273187161
+Weston McKennie,United States,MF,443.0,0.0,0.0,17.679614035978744
+Maxim De Cuyper,Belgium,DF,442.0,0.0,0.0,17.625466211930902
+Alessandro Circati,Australia,DF,390.0,0.0,0.0,17.525730679576828
+Finn Surman,New Zealand,DF,270.0,1.0,0.0,17.391026579432378
+Neil El Aynaoui,Morocco,MF,562.0,0.0,0.0,17.359601561984356
+Tim Payne,New Zealand,DF,224.0,0.0,1.0,17.300043706293707
+Rodri,Spain,MF,724.0,0.0,0.0,17.281371942974154
+Álex Baena,Spain,MF,481.0,1.0,1.0,17.271094327950514
+Marcel Sabitzer,Austria,MF,360.0,1.0,0.0,17.223874756483454
+Nikola Vlašić,Croatia,MF,189.0,1.0,0.0,17.199437706684083
+Luc De Fougerolles,Canada,DF,372.0,0.0,0.0,17.13062767059962
+Mohamed Kanno,Saudi Arabia,MF,225.0,0.0,0.0,17.10246275463667
+Ramy Rabia,Egypt,DF,372.0,0.0,0.0,17.068122970998147
+Ezri Konsa,England,DF,647.0,1.0,0.0,17.035034271107115
+Josip Stanišić,Croatia,DF,360.0,0.0,1.0,16.877913752913752
+Mathías Olivera,Uruguay,DF,270.0,0.0,0.0,16.81921781921782
+Tijjani Reijnders,Netherlands,MF,199.0,0.0,1.0,16.801199674260634
+Jan Paul van Hecke,Netherlands,DF,390.0,1.0,0.0,16.735850919797407
+Shoja' Khalilzadeh,IR Iran,DF,270.0,0.0,0.0,16.73310023310023
+Andrés Andrade Cedeño,Panama,DF,270.0,0.0,0.0,16.73310023310023
+Rúben Dias,Portugal,DF,360.0,0.0,0.0,16.66851204351204
+Youri Tielemans,Belgium,MF,474.0,2.0,0.0,16.65795160016404
+Yasser Ibrahim,Egypt,DF,467.0,1.0,0.0,16.653726901841605
+Jordy Bos,Australia,DF,308.0,0.0,0.0,16.63079509423383
+David Alaba,Austria,DF,275.0,0.0,1.0,16.6184361093452
+Odilon Kossounou,Côte d'Ivoire,DF,272.0,0.0,0.0,16.61006273138626
+Danilo,Brazil,DF,405.0,0.0,0.0,16.58957092290425
+Agustín Canobbio,Uruguay,FW,224.0,1.0,0.0,16.566705486542443
+Federico Viñas,Uruguay,FW,192.0,0.0,0.0,16.525135869565215
+Daichi Kamada,Japan,MF,329.0,2.0,0.0,16.491453350842804
+Enzo Fernández,Argentina,MF,659.0,2.0,0.0,16.48312387838679
+Ryan Mendes,Cabo Verde,MF,330.0,0.0,1.0,16.424348378893836
+Jamiro Monteiro,Cabo Verde,MF,281.0,0.0,0.0,16.387797565269324
+Mohamed Salah,Egypt,MF,425.0,1.0,2.0,16.363419359838794
+Tani Oluwaseyi,Canada,FW,259.0,0.0,0.0,16.333725029377202
+Nilson Angulo,Ecuador,MF,218.0,1.0,0.0,16.22137269724027
+Torbjørn Heggem,Norway,DF,443.0,0.0,0.0,16.111080988890393
+Nicolás González,Argentina,MF,259.0,0.0,1.0,16.023864502125374
+Jesús Gallardo,Mexico,DF,373.0,0.0,0.0,15.96289769212021
+Noussair Mazraoui,Morocco,DF,477.0,0.0,0.0,15.93218102652065
+Hamdy Fathy,Egypt,DF,238.0,0.0,0.0,15.867955573837921
+Moisés Caicedo,Ecuador,MF,360.0,0.0,0.0,15.825774467078812
+Nicolás Tagliafico,Argentina,DF,476.0,0.0,0.0,15.770259152612093
+Nahuel Molina,Argentina,DF,528.0,0.0,0.0,15.577187963551598
+Maxence Lacroix,France,DF,241.0,0.0,0.0,15.573948872704058
+Thalente Mbatha,South Africa,MF,260.0,0.0,0.0,15.546957223378627
+Hakan Çalhanoğlu,Türkiye,MF,180.0,0.0,0.0,15.40197121718861
+Nicolas Seiwald,Austria,MF,315.0,0.0,0.0,15.393495393495392
+Micky van de Ven,Netherlands,DF,265.0,0.0,0.0,15.391499394780773
+Stephen Eustáquio,Canada,MF,392.0,1.0,0.0,15.174097382948315
+Junya Itō,Japan,MF,216.0,1.0,0.0,15.049507993348573
+Antonio Nusa,Norway,FW,318.0,1.0,0.0,14.995442530307173
+Rodrigo De Paul,Argentina,MF,491.0,0.0,1.0,14.957356466255783
+Yan Valery,Tunisia,DF,251.0,0.0,0.0,14.860836374780595
+Samuel Moutoussamy,Congo DR,MF,330.0,0.0,0.0,14.844776435685525
+Jonas Adjetey,Ghana,DF,225.0,0.0,0.0,14.832816458903416
+Ladislav Krejčí,Czechia,DF,270.0,1.0,0.0,14.817470505876305
+Arthur Masuaku,Congo DR,DF,315.0,0.0,1.0,14.8034188034188
+Israel Reyes,Mexico,DF,202.0,0.0,0.0,14.795575711417294
+Evidence Makgopa,South Africa,FW,215.0,0.0,0.0,14.757330637007076
+Dani Olmo,Spain,MF,491.0,0.0,2.0,14.714180267620453
+Alistair Johnston,Canada,DF,450.0,0.0,0.0,14.62613425222121
+Aïssa Mandi,Algeria,DF,360.0,0.0,0.0,14.609168609168607
+Chris Richards,United States,DF,360.0,0.0,0.0,14.609168609168607
+Sadio Mané,Senegal,MF,362.0,0.0,1.0,14.551010483631192
+Ime Okon,South Africa,DF,360.0,0.0,0.0,14.544580419580418
+Issa Diop,Morocco,DF,476.0,1.0,0.0,14.537117826759768
+Fares Chaïbi,Algeria,MF,360.0,0.0,0.0,14.516464815377859
+Romano Schmid,Austria,MF,263.0,1.0,0.0,14.499832563975398
+Sander Berge,Norway,MF,480.0,0.0,0.0,14.480259324009323
+Tim Ream,United States,DF,360.0,0.0,0.0,14.479992229992227
+Marc Cucurella,Spain,DF,750.0,0.0,2.0,14.44603830951657
+Caleb Yirenkyi,Ghana,MF,264.0,1.0,0.0,14.256177232955892
+Leroy Sané,Germany,MF,326.0,1.0,0.0,14.198058099098379
+Reece James,England,DF,319.0,0.0,0.0,14.162812109520573
+Nuno Mendes,Portugal,DF,395.0,1.0,0.0,14.05873304827625
+Isak Hien,Sweden,DF,216.0,0.0,0.0,14.051897176897175
+Jules Koundé,France,DF,599.0,0.0,0.0,13.924898140257069
+Federico Valverde,Uruguay,MF,236.0,0.0,0.0,13.92072831369073
+Lee Han-beom,Korea Republic,DF,270.0,0.0,0.0,13.9011914011914
+Aziz Behich,Australia,MF,217.0,0.0,0.0,13.900160148406993
+Ismail Jakobs,Senegal,DF,219.0,0.0,0.0,13.75323306830156
+Ngal'Ayel Mukau,Congo DR,MF,195.0,0.0,0.0,13.748431056123364
+Davinson Sánchez,Colombia,DF,480.0,0.0,0.0,13.712000861457382
+Gustavo Puerta,Colombia,MF,469.0,0.0,1.0,13.684365601951583
+Nico O'Reilly,England,DF,461.0,0.0,0.0,13.672100322576602
+Kim Min-jae,Korea Republic,DF,245.0,0.0,0.0,13.527069204087837
+Edmilson Junior,Qatar,MF,210.0,0.0,1.0,13.478579391622873
+Thapelo Maseko,South Africa,MF,242.0,1.0,0.0,13.363988987416942
+Amir Al Ammari,Iraq,MF,247.0,0.0,1.0,13.30058605362249
+John Yeboah,Ecuador,MF,311.0,0.0,0.0,13.291381483049317
+Chadi Riad,Morocco,DF,344.0,0.0,1.0,13.285087006017237
+Lamine Camara,Senegal,MF,248.0,0.0,1.0,13.24695465824498
+Manuel Ugarte,Uruguay,MF,184.0,0.0,0.0,13.244370232791782
+Nabil Bentaleb,Algeria,MF,285.0,0.0,0.0,13.239479818427185
+Joe Bell,New Zealand,MF,243.0,0.0,0.0,13.211890989668767
+Julián Álvarez,Argentina,FW,602.0,1.0,0.0,13.191655833212963
+Leandro Paredes,Argentina,MF,473.0,0.0,0.0,13.164533324934096
+Johan Mojica,Colombia,DF,390.0,0.0,0.0,13.134063818010306
+Virgil van Dijk,Netherlands,DF,390.0,1.0,1.0,13.06766013622201
+Derek Cornelius,Canada,DF,315.0,0.0,0.0,12.948404252752077
+Manu Koné,France,MF,385.0,0.0,0.0,12.788969923357277
+Ali Ahmed,Canada,MF,234.0,0.0,0.0,12.748367388835616
+Christian Pulisic,United States,MF,223.0,0.0,1.0,12.692832610945304
+Erik Lira,Mexico,MF,345.0,0.0,1.0,12.688557818992601
+Akmal Mozgovoy,Uzbekistan,MF,216.0,0.0,1.0,12.680976430976433
+Grant Hanley,Scotland,DF,180.0,0.0,0.0,12.614413364413362
+Bruno Fernandes,Portugal,MF,422.0,0.0,1.0,12.60021556848262
+Steven Moreira,Cabo Verde,DF,301.0,0.0,0.0,12.546755570011381
+Noah Sadiki,Congo DR,MF,259.0,0.0,0.0,12.523962523962526
+David Møller Wolfe,Norway,DF,430.0,0.0,1.0,12.460318751016425
+Noni Madueke,England,MF,286.0,0.0,0.0,12.39818254108312
+Michael Amir Murillo,Panama,DF,270.0,0.0,0.0,12.360680382419513
+Remo Freuler,Switzerland,MF,592.0,0.0,0.0,12.279234425973558
+Takehiro Tomiyasu,Japan,DF,184.0,0.0,0.0,12.213818789905744
+Rafik Belghali,Algeria,DF,331.0,1.0,0.0,12.086758418690641
+Bilal El Khannouss,Morocco,MF,461.0,0.0,0.0,12.063596593918199
+Ermedin Demirović,Bosnia–Herz,FW,354.0,0.0,0.0,11.950380741832472
+Franck Kessié,Côte d'Ivoire,MF,346.0,1.0,0.0,11.89488403863875
+Ihsan Haddad,Jordan,DF,260.0,0.0,1.0,11.874394835933296
+Gabriel Magalhães,Brazil,DF,450.0,0.0,1.0,11.854856254856253
+Sergiño Dest,United States,MF,297.0,0.0,0.0,11.771229063719185
+Merih Demiral,Türkiye,DF,180.0,0.0,0.0,11.72403803925543
+Moussa Niakhaté,Senegal,DF,390.0,0.0,1.0,11.718128025820333
+Lee Kang-in,Korea Republic,FW,270.0,0.0,1.0,11.69484702093398
+Theo Hernández,France,DF,257.0,0.0,0.0,11.629207368506979
+Renato Veiga,Portugal,DF,450.0,0.0,0.0,11.583993783993785
+Thiago Almada,Argentina,MF,241.0,0.0,0.0,11.572461455196436
+Ibrahim Bayesh,Iraq,MF,235.0,0.0,0.0,11.549620592173785
+Vladimír Coufal,Czechia,DF,270.0,0.0,1.0,11.434602434602436
+Donyell Malen,Netherlands,FW,185.0,0.0,0.0,11.43360752056404
+Alexander Bernhardsson,Sweden,MF,217.0,0.0,0.0,11.306785780839077
+Marwan Attia,Egypt,MF,434.0,0.0,1.0,11.30667719377397
+José Córdoba,Panama,DF,270.0,0.0,0.0,11.241517741517741
+Cristian Martínez,Panama,MF,242.0,0.0,0.0,11.215540657689417
+Luis Díaz,Colombia,MF,478.0,1.0,1.0,11.1909112959686
+Michael Gregoritsch,Austria,FW,188.0,0.0,1.0,11.170212765957446
+Brandon Mechele,Belgium,DF,570.0,0.0,0.0,11.098403503437828
+Mohammad Mohebi,IR Iran,MF,244.0,1.0,0.0,11.08417983774363
+Tajon Buchanan,Canada,MF,376.0,0.0,0.0,11.082011767141276
+Arthur Theate,Belgium,DF,228.0,0.0,0.0,11.08010886901047
+Aleksandar Pavlovic,Germany,MF,272.0,0.0,0.0,11.028405737485022
+Jhon Lucumí,Colombia,DF,478.0,0.0,0.0,10.954077303449687
+Amar Memić,Bosnia–Herz,MF,224.0,0.0,0.0,10.953448725187855
+Michael Boxall,New Zealand,DF,207.0,0.0,0.0,10.856727813249552
+Chancel Mbemba,Congo DR,DF,360.0,0.0,1.0,10.764471639471639
+Lucas Herrington,Australia,DF,210.0,0.0,0.0,10.701631701631701
+Morgan Rogers,England,MF,339.0,0.0,1.0,10.680340564911553
+Azzedine Ounahi,Morocco,MF,435.0,2.0,0.0,10.656446834857631
+Marcus Pedersen,Norway,DF,236.0,1.0,0.0,10.570923794947374
+Victor Lindelöf,Sweden,DF,356.0,0.0,0.0,10.477724522668343
+Luka Modrić,Croatia,MF,317.0,0.0,1.0,10.468332928900754
+Granit Xhaka,Switzerland,MF,600.0,1.0,0.0,10.389686159251378
+Jean-Ricner Bellegarde,Haiti,MF,260.0,0.0,0.0,10.311323292092522
+Ali Olwan,Jordan,MF,268.0,1.0,0.0,10.308708434114013
+Kevin De Bruyne,Belgium,MF,382.0,1.0,0.0,10.287549539768982
+Anis Ben Slimane,Tunisia,MF,240.0,0.0,0.0,10.223218810175332
+Martin Baturina,Croatia,MF,321.0,1.0,0.0,10.12677173384203
+Gilberto Mora,Mexico,MF,213.0,0.0,0.0,10.100462917364325
+Andy Robertson,Scotland,DF,225.0,0.0,0.0,9.988189588189588
+Nico Elvedi,Switzerland,DF,600.0,0.0,0.0,9.962354312354313
+Ritsu Doan,Japan,MF,278.0,0.0,1.0,9.912587412587415
+Marko Stamenic,New Zealand,MF,269.0,0.0,0.0,9.904593547716223
+Ivan Šunjić,Bosnia–Herz,MF,196.0,0.0,0.0,9.90120128318886
+Idrissa Gueye,Senegal,MF,361.0,0.0,0.0,9.822382844182194
+Kerim Alajbegović,Bosnia–Herz,MF,277.0,1.0,0.0,9.703723786285396
+Oswin Appollis,South Africa,MF,255.0,0.0,0.0,9.686983945295966
+Derrick Luckassen,Ghana,DF,180.0,1.0,0.0,9.611792394401093
+Esmir Bajraktarevic,Bosnia–Herz,MF,230.0,0.0,0.0,9.53471386836226
+Nestory Irankunda,Australia,MF,261.0,1.0,0.0,9.427432748272329
+Oscar Bobb,Norway,FW,225.0,0.0,0.0,9.40096618357488
+William Saliba,France,DF,479.0,0.0,0.0,9.286392104763712
+Omar Marmoush,Egypt,MF,326.0,0.0,0.0,9.201614603054988
+Fabian Rieder,Switzerland,MF,302.0,0.0,0.0,9.179982844681952
+Ellyes Skhiri,Tunisia,DF,250.0,0.0,0.0,8.989370629370628
+Jonathan Tah,Germany,DF,372.0,0.0,0.0,8.971461567885129
+Pau Cubarsí,Spain,DF,750.0,0.0,0.0,8.837685213337386
+Kenan Yıldız,Türkiye,MF,218.0,0.0,0.0,8.825812201360666
+Lucas Digne,France,DF,463.0,0.0,0.0,8.809389502412321
+Zidane Iqbal,Iraq,MF,188.0,0.0,0.0,8.626878440708227
+Ghislain Konan,Côte d'Ivoire,DF,269.0,0.0,0.0,8.52730912210466
+Jefferson Lerma,Colombia,MF,410.0,0.0,0.0,8.526963492499018
+Marin Pongračić,Croatia,DF,270.0,0.0,0.0,8.495726495726496
+Jerome Opoku,Ghana,DF,270.0,0.0,0.0,8.40960890960891
+Harry Souttar,Australia,DF,390.0,0.0,0.0,8.37853450896929
+Redouane Halhal,Morocco,DF,180.0,0.0,0.0,8.366550116550115
+Philipp Lienhart,Austria,DF,180.0,0.0,0.0,8.366550116550115
+Steve Kapuadi,Congo DR,DF,180.0,0.0,0.0,8.366550116550115
+Marquinhos,Brazil,DF,450.0,0.0,0.0,8.340714840714842
+José Luis Rodríguez,Panama,MF,233.0,0.0,0.0,8.328907517188915
+Sebastián Cáceres,Uruguay,DF,270.0,0.0,0.0,8.323491323491323
+Akam Hashim,Iraq,DF,270.0,0.0,0.0,8.323491323491323
+Mehdi Taremi,IR Iran,FW,259.0,0.0,0.0,8.166862514688601
+César Montes,Mexico,DF,314.0,0.0,0.0,8.119479523522724
+Brian Gutiérrez,Mexico,MF,198.0,0.0,0.0,8.107296743660381
+Eberechi Eze,England,MF,211.0,0.0,1.0,7.9620853080568725
+Pedro Neto,Portugal,MF,350.0,0.0,1.0,7.920879120879121
+Jeremy Doku,Belgium,MF,309.0,0.0,0.0,7.886615284251416
+Gustavo Gómez,Paraguay,DF,480.0,0.0,0.0,7.867861305361304
+Marc Guéhi,England,DF,663.0,0.0,0.0,7.8624392199052835
+Djibril Sow,Switzerland,MF,253.0,0.0,0.0,7.539204222483137
+Scott McTominay,Scotland,MF,270.0,0.0,0.0,7.4030719682893595
+Leandro Bacuna,Curaçao,MF,270.0,0.0,0.0,7.187538709277839
+Paul Wanner,Austria,MF,234.0,0.0,0.0,6.860020321558784
+Luis Suárez,Colombia,FW,331.0,0.0,1.0,6.3444108761329305
+Ruben Providence,Haiti,MF,220.0,0.0,0.0,6.33855275159623
+James Rodríguez,Colombia,MF,313.0,0.0,0.0,6.33297456814612
+Axel Tuanzebe,Congo DR,DF,360.0,0.0,0.0,6.307206682206681
+John McGinn,Scotland,MF,259.0,1.0,0.0,6.288959767220638
+Johan Vásquez,Mexico,DF,360.0,0.0,0.0,6.242618492618492
+Jackson Irvine,Australia,MF,223.0,0.0,0.0,6.178803649070757
+Carlos Harvey,Panama,MF,267.0,0.0,0.0,6.1365600691443385
+Gustavo Velásquez,Paraguay,DF,246.0,0.0,0.0,6.12186593893911
+Aiden O'Neill,Australia,MF,360.0,0.0,0.0,5.976107226107226
+Abdullah Al-Khaibari,Saudi Arabia,MF,180.0,0.0,0.0,5.976107226107226
+Patrik Schick,Czechia,FW,180.0,0.0,0.0,5.875603864734299
+Ibrahim Maza,Algeria,MF,351.0,0.0,0.0,5.694670744837969
+Ayyoub Bouaddi,Morocco,MF,381.0,0.0,0.0,5.690307068259823
+Ali Nemati,IR Iran,DF,270.0,0.0,0.0,5.663817663817664
+Jack Hendry,Scotland,DF,270.0,0.0,0.0,5.663817663817664
+Issa Laye,Qatar,DF,270.0,0.0,0.0,5.577700077700078
+Sarpreet Singh,New Zealand,MF,209.0,0.0,0.0,5.504792690147381
+Moïse Bombito,Canada,DF,193.0,0.0,0.0,5.406930307808884
+Omar Alderete,Paraguay,DF,320.0,0.0,0.0,4.6335227272727275
+Otabek Shukurov,Uzbekistan,MF,237.0,0.0,0.0,4.608893216488152
+Tahith Chong,Curaçao,MF,247.0,0.0,0.0,4.590661055191948
+Ange-Yoan Bonny,Côte d'Ivoire,FW,234.0,0.0,0.0,4.519695280564846
+Salem Al-Dawsari,Saudi Arabia,MF,245.0,0.0,0.0,4.39060939060939
+Kwasi Sibo,Ghana,MF,248.0,0.0,0.0,4.270527859237537
+Yoel Bárcenas,Panama,MF,249.0,0.0,0.0,4.253377144943409
+Stjepan Radeljić,Bosnia–Herz,DF,180.0,0.0,0.0,4.247863247863248
+Hiroki Ito,Japan,DF,360.0,0.0,0.0,4.247863247863248
+Shogo Taniguchi,Japan,DF,232.0,0.0,0.0,3.1955329153605008
+Kevin Danso,Austria,DF,241.0,0.0,0.0,3.1726779444621767
+Antoine Semenyo,Ghana,MF,360.0,0.0,0.0,3.034188034188034
+Ben Gannon-Doak,Scotland,MF,186.0,0.0,0.0,2.93631100082713
+Vitinha,Portugal,MF,376.0,0.0,0.0,2.816731141199226
+Robin Hranáč,Czechia,DF,270.0,0.0,0.0,2.7457912457912457
+Paik Seung-ho,Korea Republic,MF,204.0,0.0,0.0,2.5958110516934045
+Akram Afif,Qatar,MF,238.0,0.0,0.0,2.2947640594699417
+Seol Young-woo,Korea Republic,MF,250.0,0.0,0.0,2.118181818181818
+Pathé Ciss,Senegal,DF,184.0,0.0,0.0,1.642249527410208
+Giuliano Simeone,Argentina,FW,192.0,0.0,0.0,0.0
+Alexander Sørloth,Norway,FW,337.0,0.0,0.0,0.0
+Firas Al-Buraikan,Saudi Arabia,FW,238.0,0.0,0.0,0.0
+Jordan Ayew,Ghana,FW,300.0,0.0,0.0,0.0
+Ali Al Hamadi,Iraq,FW,180.0,0.0,0.0,0.0
+John Stones,England,DF,330.0,0.0,0.0,0.0
+Jarell Quansah,England,DF,197.0,0.0,0.0,0.0
+Antonio Rüdiger,Germany,DF,262.0,0.0,0.0,0.0
+Josué Casimir,Haiti,MF,182.0,0.0,0.0,0.0
+Cédric Bakambu,Congo DR,FW,190.0,0.0,0.0,0.0
+Jürgen Locadia,Curaçao,FW,235.0,0.0,0.0,0.0
+Pavel Šulc,Czechia,FW,189.0,0.0,0.0,0.0
+Ricardo Pepi,United States,FW,204.0,0.0,0.0,0.0

@@ -1,0 +1,218 @@
+player,team,minutes,goals,assists,interceptions,tackles_won,midfield_output
+Nathan Saliba,Canada,182.0,1.0,2.0,4.0,4.0,1.4340659340659343
+Livano Comenencia,Curaçao,233.0,1.0,0.0,11.0,1.0,1.4291845493562232
+Aurélien Tchouaméni,France,360.0,0.0,1.0,6.0,14.0,1.375
+Felix Nmecha,Germany,270.0,1.0,1.0,2.0,9.0,1.3166666666666669
+Amad Diallo,Côte d'Ivoire,185.0,2.0,0.0,2.0,4.0,1.3135135135135134
+Diego Gómez,Paraguay,304.0,0.0,0.0,9.0,6.0,1.287828947368421
+Mohanad Lasheen,Egypt,359.0,0.0,0.0,8.0,11.0,1.2409470752089136
+Saeid Ezatolahi,IR Iran,264.0,0.0,0.0,7.0,5.0,1.2272727272727273
+Matías Galarza,Paraguay,388.0,1.0,1.0,7.0,11.0,1.1829896907216493
+Christ Inao Oulaï,Côte d'Ivoire,208.0,0.0,0.0,6.0,4.0,1.1682692307692308
+Pedro Vite,Ecuador,360.0,0.0,1.0,5.0,11.0,1.15
+Saman Ghoddos,IR Iran,208.0,0.0,0.0,5.0,4.0,1.1466346153846154
+Andrés Cubas,Paraguay,480.0,0.0,0.0,11.0,13.0,1.14375
+Lucas Paquetá,Brazil,233.0,0.0,1.0,5.0,4.0,1.1394849785407726
+Rodrigo Bentancur,Uruguay,270.0,0.0,0.0,7.0,5.0,1.1333333333333333
+Bukayo Saka,England,358.0,3.0,3.0,1.0,7.0,1.1312849162011174
+Malik Tillman,United States,356.0,2.0,1.0,5.0,7.0,1.1123595505617978
+Deroy Duarte,Cabo Verde,264.0,1.0,0.0,6.0,5.0,1.1079545454545454
+Xaver Schlager,Austria,238.0,0.0,1.0,7.0,3.0,1.0588235294117647
+Frenkie de Jong,Netherlands,328.0,0.0,0.0,8.0,7.0,1.0564024390243905
+Elliot Anderson,England,632.0,0.0,1.0,8.0,18.0,1.0537974683544304
+João Félix,Portugal,201.0,0.0,0.0,3.0,4.0,1.0522388059701493
+Hakan Çalhanoğlu,Türkiye,180.0,0.0,0.0,1.0,3.0,1.05
+Ibrahim Sangaré,Côte d'Ivoire,268.0,0.0,1.0,6.0,5.0,1.0242537313432836
+Pape Gueye,Senegal,234.0,2.0,1.0,4.0,1.0,1.0192307692307694
+Jude Bellingham,England,614.0,7.0,1.0,3.0,10.0,0.9894136807817588
+Lewis Ferguson,Scotland,270.0,0.0,0.0,4.0,7.0,0.9833333333333334
+Sphephelo Sithole,South Africa,229.0,0.0,0.0,5.0,5.0,0.982532751091703
+Juninho Bacuna,Curaçao,254.0,0.0,0.0,5.0,4.0,0.9744094488188977
+Mikel Merino,Spain,199.0,2.0,0.0,3.0,2.0,0.9723618090452262
+Damián Bobadilla,Paraguay,189.0,0.0,0.0,5.0,3.0,0.9523809523809523
+Dan Ndoye,Switzerland,406.0,2.0,0.0,4.0,5.0,0.9421182266009852
+Charles De Ketelaere,Belgium,350.0,3.0,1.0,5.0,4.0,0.9385714285714286
+Michal Sadílek,Czechia,183.0,1.0,0.0,2.0,2.0,0.9344262295081969
+Miguel Almirón,Paraguay,282.0,0.0,0.0,3.0,7.0,0.9255319148936171
+Luis Romo,Mexico,264.0,1.0,1.0,4.0,4.0,0.9204545454545455
+Abbosbek Fayzullayev,Uzbekistan,220.0,1.0,0.0,1.0,6.0,0.9204545454545454
+Jhon Arias,Colombia,377.0,1.0,0.0,2.0,9.0,0.9190981432360743
+Nasser Al-Dawsari,Saudi Arabia,207.0,0.0,0.0,4.0,4.0,0.9130434782608696
+Ao Tanaka,Japan,193.0,0.0,0.0,1.0,6.0,0.9093264248704663
+Pedri,Spain,499.0,0.0,0.0,10.0,8.0,0.9018036072144289
+Thomas Partey,Ghana,270.0,0.0,0.0,6.0,4.0,0.9
+Florian Wirtz,Germany,361.0,0.0,3.0,2.0,6.0,0.8975069252077563
+Paul Okon-Engstler,Australia,197.0,0.0,1.0,5.0,2.0,0.8908629441624366
+Kenan Yıldız,Türkiye,218.0,0.0,0.0,1.0,2.0,0.8876146788990826
+Arda Güler,Türkiye,270.0,1.0,0.0,2.0,3.0,0.8833333333333333
+Elijah Just,New Zealand,264.0,3.0,0.0,2.0,3.0,0.8693181818181819
+Teboho Mokoena,South Africa,270.0,1.0,0.0,5.0,3.0,0.8666666666666667
+Adrien Rabiot,France,585.0,0.0,1.0,11.0,7.0,0.8615384615384616
+Federico Valverde,Uruguay,236.0,0.0,0.0,3.0,2.0,0.8580508474576272
+Tyler Adams,United States,341.0,0.0,0.0,8.0,5.0,0.8577712609970675
+Michael Olise,France,646.0,0.0,7.0,3.0,8.0,0.856811145510836
+Ismaila Sarr,Senegal,364.0,4.0,1.0,2.0,1.0,0.8530219780219781
+Noor Al Rawabdeh,Jordan,270.0,0.0,1.0,2.0,7.0,0.8500000000000001
+Yan Diomandé,Côte d'Ivoire,329.0,0.0,1.0,4.0,6.0,0.8480243161094224
+Marcus Rashford,England,223.0,1.0,1.0,0.0,2.0,0.8475336322869956
+Alexis Mac Allister,Argentina,750.0,1.0,1.0,9.0,12.0,0.8340000000000001
+Désiré Doué,France,400.0,1.0,1.0,2.0,6.0,0.8325
+Lamine Yamal,Spain,614.0,1.0,0.0,2.0,9.0,0.8281758957654723
+Kevin Pina,Cabo Verde,349.0,1.0,0.0,3.0,7.0,0.8252148997134672
+Weston McKennie,United States,443.0,0.0,0.0,7.0,7.0,0.8126410835214448
+Rodri,Spain,724.0,0.0,0.0,3.0,20.0,0.8017955801104972
+Jamiro Monteiro,Cabo Verde,281.0,0.0,0.0,4.0,4.0,0.800711743772242
+Benjamin Tahirovic,Bosnia–Herz,237.0,0.0,0.0,4.0,4.0,0.7974683544303797
+Casemiro,Brazil,379.0,1.0,0.0,6.0,5.0,0.795514511873351
+Neil El Aynaoui,Morocco,562.0,0.0,0.0,8.0,9.0,0.7927046263345197
+Hwang In-beom,Korea Republic,263.0,1.0,1.0,4.0,2.0,0.7870722433460076
+Danley Jean-Jacques,Haiti,259.0,0.0,0.0,3.0,6.0,0.7818532818532817
+Bruno Guimarães,Brazil,416.0,0.0,4.0,2.0,6.0,0.778846153846154
+Fabián Ruiz Peña,Spain,321.0,1.0,0.0,4.0,3.0,0.7710280373831775
+Jamal Musiala,Germany,270.0,1.0,0.0,1.0,5.0,0.7666666666666667
+Rayan,Brazil,288.0,0.0,1.0,3.0,4.0,0.765625
+Nizar Al Rashdan,Jordan,255.0,1.0,0.0,2.0,5.0,0.7588235294117647
+Yasin Ayari,Sweden,339.0,2.0,0.0,3.0,4.0,0.7566371681415929
+João Neves,Portugal,390.0,1.0,0.0,4.0,7.0,0.75
+Thalente Mbatha,South Africa,260.0,0.0,0.0,5.0,2.0,0.7442307692307693
+Nicolas Seiwald,Austria,315.0,0.0,0.0,4.0,5.0,0.7285714285714285
+Fares Chaïbi,Algeria,360.0,0.0,0.0,3.0,5.0,0.725
+Moisés Caicedo,Ecuador,360.0,0.0,0.0,4.0,6.0,0.725
+Johan Manzambi,Switzerland,199.0,3.0,2.0,0.0,0.0,0.7236180904522613
+Emam Ashour,Egypt,362.0,2.0,0.0,4.0,2.0,0.7209944751381215
+Mohamed Kanno,Saudi Arabia,225.0,0.0,0.0,2.0,4.0,0.7200000000000001
+Bradley Barcola,France,384.0,3.0,1.0,1.0,4.0,0.71484375
+Mostafa Ziko,Egypt,370.0,2.0,1.0,2.0,4.0,0.7054054054054055
+Connor Metcalfe,Australia,315.0,1.0,0.0,2.0,5.0,0.7
+Sebastian Berhalter,United States,187.0,1.0,1.0,3.0,0.0,0.697860962566845
+Ruben Vargas,Switzerland,284.0,2.0,1.0,2.0,2.0,0.6971830985915494
+Lucas Bergvall,Sweden,181.0,0.0,1.0,2.0,2.0,0.6961325966850829
+Ryan Mendes,Cabo Verde,330.0,0.0,1.0,5.0,2.0,0.6954545454545454
+Samuel Moutoussamy,Congo DR,330.0,0.0,0.0,1.0,8.0,0.6954545454545454
+Ryan Gravenberch,Netherlands,345.0,0.0,2.0,6.0,1.0,0.691304347826087
+Marcel Sabitzer,Austria,360.0,1.0,0.0,6.0,2.0,0.675
+Riyad Mahrez,Algeria,262.0,2.0,1.0,1.0,2.0,0.6698473282442747
+Leandro Trossard,Belgium,506.0,2.0,2.0,4.0,1.0,0.6669960474308301
+Kaishū Sano,Japan,270.0,1.0,1.0,4.0,2.0,0.6666666666666667
+John Yeboah,Ecuador,311.0,0.0,0.0,3.0,3.0,0.6655948553054664
+Youri Tielemans,Belgium,474.0,2.0,0.0,2.0,6.0,0.6645569620253164
+Enzo Fernández,Argentina,659.0,2.0,0.0,6.0,7.0,0.6623672230652504
+Noni Madueke,England,286.0,0.0,0.0,2.0,4.0,0.6608391608391608
+Martin Ødegaard,Norway,470.0,0.0,4.0,3.0,4.0,0.6606382978723404
+Nicolás González,Argentina,259.0,0.0,1.0,1.0,3.0,0.6602316602316602
+Anthony Gordon,England,396.0,1.0,3.0,3.0,3.0,0.6590909090909092
+Thapelo Maseko,South Africa,242.0,1.0,0.0,2.0,1.0,0.6508264462809917
+Hannibal Mejbri,Tunisia,270.0,0.0,2.0,1.0,4.0,0.6500000000000001
+Mateo Kovačić,Croatia,270.0,0.0,1.0,2.0,3.0,0.65
+Omar Marmoush,Egypt,326.0,0.0,0.0,2.0,3.0,0.6487730061349694
+Jean-Ricner Bellegarde,Haiti,260.0,0.0,0.0,3.0,2.0,0.6403846153846154
+Kevin De Bruyne,Belgium,382.0,1.0,0.0,0.0,2.0,0.6361256544502618
+Manuel Ugarte,Uruguay,184.0,0.0,0.0,3.0,1.0,0.6358695652173912
+Gilberto Mora,Mexico,213.0,0.0,0.0,2.0,2.0,0.6338028169014085
+Álex Baena,Spain,481.0,1.0,1.0,2.0,5.0,0.6268191268191269
+Ousmane Dembélé,France,592.0,6.0,2.0,0.0,2.0,0.6233108108108109
+Ngal'Ayel Mukau,Congo DR,195.0,0.0,0.0,3.0,2.0,0.6230769230769231
+Nicolas Raskin,Belgium,341.0,0.0,2.0,2.0,5.0,0.6202346041055719
+Brian Gutiérrez,Mexico,198.0,0.0,0.0,2.0,1.0,0.6136363636363636
+Sander Berge,Norway,480.0,0.0,0.0,9.0,4.0,0.609375
+Daizen Maeda,Japan,244.0,1.0,0.0,2.0,3.0,0.6086065573770492
+Manu Koné,France,385.0,0.0,0.0,3.0,5.0,0.6077922077922079
+Leandro Paredes,Argentina,473.0,0.0,0.0,5.0,6.0,0.5993657505285412
+Stephen Eustáquio,Canada,392.0,1.0,0.0,3.0,5.0,0.596938775510204
+Patrick Berg,Norway,445.0,0.0,2.0,2.0,7.0,0.5966292134831461
+Nikola Vlašić,Croatia,189.0,1.0,0.0,1.0,2.0,0.5952380952380951
+Gustavo Puerta,Colombia,469.0,0.0,1.0,3.0,3.0,0.5948827292110874
+Joe Bell,New Zealand,243.0,0.0,0.0,4.0,2.0,0.5925925925925927
+Dani Olmo,Spain,491.0,0.0,2.0,1.0,5.0,0.5865580448065173
+Nabil Bentaleb,Algeria,285.0,0.0,0.0,3.0,4.0,0.5842105263157895
+Brahim Díaz,Morocco,457.0,0.0,4.0,4.0,2.0,0.5711159737417942
+Leroy Sané,Germany,326.0,1.0,0.0,2.0,3.0,0.5659509202453988
+Thiago Almada,Argentina,241.0,0.0,0.0,0.0,4.0,0.5601659751037344
+Aziz Behich,Australia,217.0,0.0,0.0,1.0,4.0,0.5599078341013825
+Ali Ahmed,Canada,234.0,0.0,0.0,3.0,2.0,0.5576923076923077
+Keito Nakamura,Japan,307.0,1.0,1.0,1.0,3.0,0.5570032573289903
+Aleksandar Pavlovic,Germany,272.0,0.0,0.0,2.0,3.0,0.5459558823529411
+Sergiño Dest,United States,297.0,0.0,0.0,5.0,1.0,0.5454545454545455
+Rodrigo De Paul,Argentina,491.0,0.0,1.0,6.0,4.0,0.5315682281059063
+Julián Quiñones,Mexico,410.0,4.0,1.0,0.0,0.0,0.526829268292683
+Remo Freuler,Switzerland,592.0,0.0,0.0,8.0,5.0,0.5244932432432433
+Amar Memić,Bosnia–Herz,224.0,0.0,0.0,2.0,2.0,0.5223214285714285
+Noah Sadiki,Congo DR,259.0,0.0,0.0,2.0,4.0,0.5212355212355213
+Junya Itō,Japan,216.0,1.0,0.0,1.0,2.0,0.5208333333333333
+Marko Stamenic,New Zealand,269.0,0.0,0.0,4.0,1.0,0.5185873605947955
+Declan Rice,England,557.0,1.0,2.0,5.0,3.0,0.5170556552962298
+Ibrahim Bayesh,Iraq,235.0,0.0,0.0,1.0,4.0,0.5170212765957447
+Sadio Mané,Senegal,362.0,0.0,1.0,3.0,2.0,0.5096685082872928
+Bilal El Khannouss,Morocco,461.0,0.0,0.0,1.0,7.0,0.5075921908893709
+Fabian Rieder,Switzerland,302.0,0.0,0.0,1.0,3.0,0.5066225165562914
+Tajon Buchanan,Canada,376.0,0.0,0.0,1.0,5.0,0.5026595744680851
+Cristian Martínez,Panama,242.0,0.0,0.0,1.0,4.0,0.5020661157024793
+Bruno Fernandes,Portugal,422.0,0.0,1.0,0.0,5.0,0.5011848341232228
+Idrissa Gueye,Senegal,361.0,0.0,0.0,2.0,4.0,0.4986149584487535
+Anthony Elanga,Sweden,217.0,2.0,0.0,2.0,0.0,0.4976958525345622
+Tijjani Reijnders,Netherlands,199.0,0.0,1.0,2.0,0.0,0.4974874371859297
+Roberto Alvarado,Mexico,428.0,0.0,3.0,2.0,3.0,0.4941588785046729
+Oswin Appollis,South Africa,255.0,0.0,0.0,1.0,3.0,0.49411764705882355
+Luis Díaz,Colombia,478.0,1.0,1.0,1.0,0.0,0.48012552301255235
+Romano Schmid,Austria,263.0,1.0,0.0,0.0,4.0,0.4790874524714829
+Caleb Yirenkyi,Ghana,264.0,1.0,0.0,3.0,1.0,0.4772727272727273
+Nilson Angulo,Ecuador,218.0,1.0,0.0,2.0,1.0,0.47477064220183485
+Daichi Kamada,Japan,329.0,2.0,0.0,1.0,3.0,0.46504559270516715
+Granit Xhaka,Switzerland,600.0,1.0,0.0,4.0,4.0,0.465
+Alexander Bernhardsson,Sweden,217.0,0.0,0.0,2.0,2.0,0.456221198156682
+Lamine Camara,Senegal,248.0,0.0,1.0,2.0,1.0,0.4536290322580645
+Petar Sučić,Croatia,289.0,1.0,1.0,1.0,2.0,0.4515570934256055
+Hans Vanaken,Belgium,319.0,1.0,2.0,1.0,1.0,0.45141065830720994
+Leandro Bacuna,Curaçao,270.0,0.0,0.0,0.0,3.0,0.45
+Jefferson Lerma,Colombia,410.0,0.0,0.0,5.0,1.0,0.43902439024390244
+Marwan Attia,Egypt,434.0,0.0,1.0,3.0,3.0,0.435483870967742
+Scott McTominay,Scotland,270.0,0.0,0.0,0.0,2.0,0.4333333333333334
+Mohamed Salah,Egypt,425.0,1.0,2.0,2.0,0.0,0.4235294117647058
+Carlos Harvey,Panama,267.0,0.0,0.0,0.0,3.0,0.4213483146067416
+Franck Kessié,Côte d'Ivoire,346.0,1.0,0.0,0.0,4.0,0.4161849710982659
+Anis Ben Slimane,Tunisia,240.0,0.0,0.0,2.0,2.0,0.4125
+Esmir Bajraktarevic,Bosnia–Herz,230.0,0.0,0.0,3.0,0.0,0.41086956521739126
+Ibrahim Maza,Algeria,351.0,0.0,0.0,0.0,2.0,0.41025641025641035
+José Luis Rodríguez,Panama,233.0,0.0,0.0,0.0,3.0,0.40557939914163094
+Ivan Šunjić,Bosnia–Herz,196.0,0.0,0.0,0.0,3.0,0.39030612244897955
+Jeremy Doku,Belgium,309.0,0.0,0.0,3.0,1.0,0.3786407766990291
+Erik Lira,Mexico,345.0,0.0,1.0,2.0,3.0,0.37826086956521743
+Ruben Providence,Haiti,220.0,0.0,0.0,0.0,2.0,0.36818181818181817
+Nestory Irankunda,Australia,261.0,1.0,0.0,1.0,0.0,0.3620689655172414
+Maxi Araújo,Uruguay,250.0,2.0,1.0,0.0,0.0,0.36
+Zidane Iqbal,Iraq,188.0,0.0,0.0,1.0,2.0,0.35904255319148937
+Kerim Alajbegović,Bosnia–Herz,277.0,1.0,0.0,2.0,0.0,0.3574007220216607
+Ali Olwan,Jordan,268.0,1.0,0.0,1.0,0.0,0.35261194029850745
+Martin Baturina,Croatia,321.0,1.0,0.0,1.0,2.0,0.35046728971962615
+Amir Al Ammari,Iraq,247.0,0.0,1.0,2.0,1.0,0.34615384615384615
+Christian Pulisic,United States,223.0,0.0,1.0,0.0,1.0,0.34304932735426014
+Djibril Sow,Switzerland,253.0,0.0,0.0,2.0,1.0,0.33794466403162055
+Akmal Mozgovoy,Uzbekistan,216.0,0.0,1.0,2.0,0.0,0.3333333333333333
+Mohammad Mohebi,IR Iran,244.0,1.0,0.0,1.0,1.0,0.33196721311475413
+Morgan Rogers,England,339.0,0.0,1.0,0.0,3.0,0.33185840707964603
+Paul Wanner,Austria,234.0,0.0,0.0,2.0,1.0,0.3269230769230769
+Jackson Irvine,Australia,223.0,0.0,0.0,1.0,1.0,0.3228699551569507
+Edmilson Junior,Qatar,210.0,0.0,1.0,0.0,1.0,0.32142857142857145
+James Rodríguez,Colombia,313.0,0.0,0.0,1.0,1.0,0.31629392971246006
+Ben Gannon-Doak,Scotland,186.0,0.0,0.0,0.0,1.0,0.3145161290322581
+Ayyoub Bouaddi,Morocco,381.0,0.0,0.0,1.0,3.0,0.30708661417322836
+Abdullah Al-Khaibari,Saudi Arabia,180.0,0.0,0.0,1.0,1.0,0.3
+Aiden O'Neill,Australia,360.0,0.0,0.0,2.0,2.0,0.3
+Eberechi Eze,England,211.0,0.0,1.0,0.0,0.0,0.29857819905213273
+Luka Modrić,Croatia,317.0,0.0,1.0,0.0,3.0,0.29810725552050477
+Salem Al-Dawsari,Saudi Arabia,245.0,0.0,0.0,1.0,1.0,0.29387755102040813
+Azzedine Ounahi,Morocco,435.0,2.0,0.0,1.0,1.0,0.2896551724137931
+Sarpreet Singh,New Zealand,209.0,0.0,0.0,0.0,1.0,0.2799043062200957
+Antoine Semenyo,Ghana,360.0,0.0,0.0,0.0,2.0,0.275
+Otabek Shukurov,Uzbekistan,237.0,0.0,0.0,0.0,2.0,0.26582278481012656
+Ritsu Doan,Japan,278.0,0.0,1.0,1.0,1.0,0.25899280575539574
+Yoel Bárcenas,Panama,249.0,0.0,0.0,2.0,0.0,0.25301204819277107
+Tahith Chong,Curaçao,247.0,0.0,0.0,1.0,0.0,0.2368421052631579
+Vitinha,Portugal,376.0,0.0,0.0,2.0,0.0,0.2154255319148936
+Pedro Neto,Portugal,350.0,0.0,1.0,0.0,2.0,0.20571428571428568
+Kwasi Sibo,Ghana,248.0,0.0,0.0,2.0,0.0,0.1814516129032258
+John McGinn,Scotland,259.0,1.0,0.0,0.0,0.0,0.17374517374517376
+Akram Afif,Qatar,238.0,0.0,0.0,0.0,1.0,0.17016806722689076
+Seol Young-woo,Korea Republic,250.0,0.0,0.0,1.0,0.0,0.16199999999999998
+Paik Seung-ho,Korea Republic,204.0,0.0,0.0,1.0,0.0,0.11029411764705882
+Josué Casimir,Haiti,182.0,0.0,0.0,0.0,0.0,0.049450549450549455

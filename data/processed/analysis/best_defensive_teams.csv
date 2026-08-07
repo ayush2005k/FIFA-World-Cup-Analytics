@@ -1,0 +1,11 @@
+team,games,goals_against,goal_difference,gk_saves,gk_save_pct,gk_clean_sheets
+Colombia,5,1,4,6,85.7,4
+Spain,8,1,12,9,90.9,7
+Australia,4,2,0,14,82.4,2
+Ghana,4,3,-1,16,84.2,2
+Mexico,5,3,7,8,72.7,4
+Korea Republic,3,3,-1,9,75.0,0
+Portugal,5,3,4,19,86.4,2
+IR Iran,3,3,0,15,83.3,1
+Ecuador,4,4,-2,9,69.2,1
+Côte d'Ivoire,4,4,1,9,69.2,2

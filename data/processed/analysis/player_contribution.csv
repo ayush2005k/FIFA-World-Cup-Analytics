@@ -1,0 +1,21 @@
+player,team,position,minutes,goals,assists,goals_assists,goals_per90,assists_per90,goals_assists_per90
+Johan Manzambi,Switzerland,"MF,FW",199.0,3.0,2.0,5.0,1.36,0.9,2.26
+Kylian Mbappé,France,FW,695.0,10.0,4.0,14.0,1.29,0.52,1.81
+Romelu Lukaku,Belgium,FW,233.0,3.0,1.0,4.0,1.16,0.39,1.55
+Bukayo Saka,England,MF,358.0,3.0,3.0,6.0,0.75,0.75,1.51
+Nathan Saliba,Canada,MF,182.0,1.0,2.0,3.0,0.49,0.99,1.48
+Lionel Messi,Argentina,FW,740.0,8.0,4.0,12.0,0.97,0.49,1.46
+Andreas Schjelderup,Norway,FW,252.0,1.0,3.0,4.0,0.36,1.07,1.43
+Crysencio Summerville,Netherlands,FW,253.0,2.0,2.0,4.0,0.71,0.71,1.42
+Erling Haaland,Norway,FW,465.0,7.0,0.0,7.0,1.35,0.0,1.35
+Ismaila Sarr,Senegal,"MF,FW",364.0,4.0,1.0,5.0,0.99,0.25,1.24
+Ousmane Dembélé,France,MF,592.0,6.0,2.0,8.0,0.91,0.3,1.22
+Brian Brobbey,Netherlands,FW,223.0,3.0,0.0,3.0,1.21,0.0,1.21
+Jude Bellingham,England,MF,614.0,7.0,1.0,8.0,1.03,0.15,1.17
+Lautaro Martínez,Argentina,FW,310.0,3.0,1.0,4.0,0.87,0.29,1.16
+Nicolas Pépé,Côte d'Ivoire,FW,234.0,2.0,1.0,3.0,0.77,0.38,1.15
+Pape Gueye,Senegal,MF,234.0,2.0,1.0,3.0,0.77,0.38,1.15
+Julián Quiñones,Mexico,"FW,MF",410.0,4.0,1.0,5.0,0.88,0.22,1.1
+Maxi Araújo,Uruguay,"FW,MF",250.0,2.0,1.0,3.0,0.72,0.36,1.08
+Riyad Mahrez,Algeria,MF,262.0,2.0,1.0,3.0,0.69,0.34,1.03
+Charles De Ketelaere,Belgium,"FW,MF",350.0,3.0,1.0,4.0,0.77,0.26,1.03
