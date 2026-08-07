@@ -1,0 +1,21 @@
+player,team,position,age,minutes,goals,assists,goal_contributions_per90,performance_index
+Johan Manzambi,Switzerland,"MF,FW",20,199.0,3.0,2.0,2.26,1.356
+Kylian Mbappé,France,FW,27,695.0,10.0,4.0,1.81,1.138
+Romelu Lukaku,Belgium,FW,33,233.0,3.0,1.0,1.5499999999999998,0.93
+Bukayo Saka,England,MF,24,358.0,3.0,3.0,1.5,1.7
+Nathan Saliba,Canada,MF,22,182.0,1.0,2.0,1.48,2.488
+Lionel Messi,Argentina,FW,38,740.0,8.0,4.0,1.46,1.364
+Andreas Schjelderup,Norway,FW,22,252.0,1.0,3.0,1.4300000000000002,2.001
+Crysencio Summerville,Netherlands,FW,24,253.0,2.0,2.0,1.42,1.424
+Erling Haaland,Norway,FW,25,465.0,7.0,0.0,1.35,0.887
+Ismaila Sarr,Senegal,"MF,FW",28,364.0,4.0,1.0,1.24,1.044
+Ousmane Dembélé,France,MF,29,592.0,6.0,2.0,1.21,0.847
+Brian Brobbey,Netherlands,FW,24,223.0,3.0,0.0,1.21,0.886
+Jude Bellingham,England,MF,22,614.0,7.0,1.0,1.18,1.473
+Lautaro Martínez,Argentina,FW,28,310.0,3.0,1.0,1.16,0.931
+Nicolas Pépé,Côte d'Ivoire,FW,31,234.0,2.0,1.0,1.15,1.152
+Pape Gueye,Senegal,MF,27,234.0,2.0,1.0,1.15,1.459
+Julián Quiñones,Mexico,"FW,MF",29,410.0,4.0,1.0,1.1,0.66
+Maxi Araújo,Uruguay,"FW,MF",26,250.0,2.0,1.0,1.08,0.648
+Charles De Ketelaere,Belgium,"FW,MF",25,350.0,3.0,1.0,1.03,1.541
+Riyad Mahrez,Algeria,MF,35,262.0,2.0,1.0,1.03,1.032

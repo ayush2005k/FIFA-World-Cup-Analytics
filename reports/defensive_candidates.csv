@@ -1,0 +1,21 @@
+player,team,position,age,minutes,tackles_won,interceptions,defensive_actions_per90,performance_index
+Marvin Senaya,Ghana,DF,25,278.0,12.0,6.0,5.806,2.322
+Rayan Aït-Nouri,Algeria,DF,25,284.0,13.0,5.0,5.625,2.25
+Merchas Doski,Iraq,DF,26,270.0,9.0,6.0,5.0,2.0
+Khuliso Mudau,South Africa,DF,31,360.0,8.0,11.0,4.75,1.9
+Mohamed Amine Ben Hamida,Tunisia,DF,30,202.0,9.0,1.0,4.545,1.818
+Ali Abdi,Tunisia,DF,32,269.0,8.0,4.0,4.0,1.6
+Yazan Al-Arab,Jordan,DF,30,270.0,1.0,11.0,4.0,1.6
+Stefan Posch,Austria,DF,29,331.0,4.0,10.0,3.784,1.514
+Dayot Upamecano,France,DF,27,660.0,12.0,15.0,3.699,1.564
+Saud Abdulhamid,Saudi Arabia,DF,26,269.0,9.0,2.0,3.667,1.467
+Alan Franco,Ecuador,DF,27,251.0,6.0,4.0,3.571,1.428
+Denis Zakaria,Switzerland,DF,29,357.0,5.0,9.0,3.5,1.4
+Abdallah Nasib,Jordan,DF,32,260.0,3.0,7.0,3.448,1.379
+Emmanuel Agbadou,Côte d'Ivoire,DF,28,270.0,6.0,4.0,3.333,1.333
+Sherel Floranus,Curaçao,DF,27,270.0,6.0,4.0,3.333,1.333
+Juan Cáceres,Paraguay,DF,26,436.0,11.0,5.0,3.333,1.333
+Marcos Llorente,Spain,DF,31,187.0,6.0,1.0,3.333,1.621
+Martin Expérience,Haiti,"DF,MF",27,270.0,6.0,4.0,3.333,1.333
+Edson Álvarez,Mexico,"MF,DF",28,240.0,6.0,3.0,3.333,1.333
+Djed Spence,England,DF,25,404.0,10.0,5.0,3.333,1.333

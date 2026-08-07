@@ -1,0 +1,26 @@
+player,team,position,age,minutes,goal_contributions_per90,defensive_actions_per90,performance_index,recruitment_score
+Nathan Saliba,Canada,MF,22,182.0,1.48,4.0,2.488,2.186
+Andreas Schjelderup,Norway,FW,22,252.0,1.4300000000000002,2.857,2.001,1.83
+Bukayo Saka,England,MF,24,358.0,1.5,2.0,1.7,1.64
+Johan Manzambi,Switzerland,"MF,FW",20,199.0,2.26,0.0,1.356,1.627
+Marvin Senaya,Ghana,DF,25,278.0,0.0,5.806,2.322,1.625
+Aurélien Tchouaméni,France,MF,26,360.0,0.25,5.0,2.15,1.58
+Rayan Aït-Nouri,Algeria,DF,25,284.0,0.0,5.625,2.25,1.575
+Livano Comenencia,Curaçao,MF,22,233.0,0.39,4.615,2.08,1.573
+Matías Galarza,Paraguay,MF,24,388.0,0.46,4.186,1.95,1.503
+Felix Nmecha,Germany,MF,25,270.0,0.66,3.667,1.863,1.502
+Amad Diallo,Côte d'Ivoire,"MF,FW",23,185.0,0.97,2.857,1.725,1.498
+Crysencio Summerville,Netherlands,FW,24,253.0,1.42,1.429,1.424,1.423
+Merchas Doski,Iraq,DF,26,270.0,0.0,5.0,2.0,1.4
+Lionel Messi,Argentina,FW,38,740.0,1.46,1.22,1.364,1.393
+Charles De Ketelaere,Belgium,"FW,MF",25,350.0,1.03,2.308,1.541,1.388
+Malik Tillman,United States,MF,24,356.0,0.76,3.0,1.656,1.387
+Jude Bellingham,England,MF,22,614.0,1.18,1.912,1.473,1.385
+Ramin Rezaeian,IR Iran,"DF,MF",36,270.0,1.0,2.333,1.533,1.373
+Pape Gueye,Senegal,MF,27,234.0,1.15,1.923,1.459,1.366
+Xaver Schlager,Austria,MF,28,238.0,0.38,3.846,1.766,1.35
+Kylian Mbappé,France,FW,27,695.0,1.81,0.13,1.138,1.34
+Khuliso Mudau,South Africa,DF,31,360.0,0.0,4.75,1.9,1.33
+Mohanad Lasheen,Egypt,MF,30,359.0,0.0,4.75,1.9,1.33
+Deroy Duarte,Cabo Verde,MF,26,264.0,0.34,3.793,1.721,1.307
+Pedro Vite,Ecuador,MF,24,360.0,0.25,4.0,1.75,1.3
