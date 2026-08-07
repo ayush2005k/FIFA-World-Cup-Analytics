@@ -1,0 +1,21 @@
+player,position,goals,assists,goal_contributions,team,team_goals,possession
+Kylian Mbappé,FW,10.0,4.0,14.0,France,20,55.9
+Lionel Messi,FW,8.0,4.0,12.0,Argentina,18,57.6
+Jude Bellingham,MF,7.0,1.0,8.0,England,20,54.1
+Ousmane Dembélé,MF,6.0,2.0,8.0,France,20,55.9
+Harry Kane,FW,6.0,1.0,7.0,England,20,54.1
+Michael Olise,MF,0.0,7.0,7.0,France,20,55.9
+Erling Haaland,FW,7.0,0.0,7.0,Norway,12,52.2
+Bukayo Saka,MF,3.0,3.0,6.0,England,20,54.1
+Mikel Oyarzabal,FW,5.0,1.0,6.0,Spain,13,64.1
+Vinicius Júnior,FW,4.0,1.0,5.0,Brazil,10,53.0
+Deniz Undav,FW,3.0,2.0,5.0,Germany,11,65.0
+Julián Quiñones,"FW,MF",4.0,1.0,5.0,Mexico,10,52.2
+Ismaila Sarr,"MF,FW",4.0,1.0,5.0,Senegal,10,55.3
+Johan Manzambi,"MF,FW",3.0,2.0,5.0,Switzerland,10,54.0
+Lautaro Martínez,FW,3.0,1.0,4.0,Argentina,18,57.6
+Charles De Ketelaere,"FW,MF",3.0,1.0,4.0,Belgium,13,51.2
+Leandro Trossard,"MF,FW",2.0,2.0,4.0,Belgium,13,51.2
+Romelu Lukaku,FW,3.0,1.0,4.0,Belgium,13,51.2
+Bruno Guimarães,MF,0.0,4.0,4.0,Brazil,10,53.0
+Anthony Gordon,MF,1.0,3.0,4.0,England,20,54.1
