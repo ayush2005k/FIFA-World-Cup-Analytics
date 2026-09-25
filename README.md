@@ -1,4 +1,4 @@
-# ⚽ FIFA World Cup Analytics(still works going on)
+# ⚽ FIFA World Cup Analytics
 
 A complete end-to-end Sports Analytics and Data Engineering project built around the FIFA World Cup.
 
